@@ -9,6 +9,8 @@ The user can then run_main__ui__and__algorithm.py in the terminal. Users can add
 Then they can generate a timetable.
 Currently default setting id theory slots in the morning, and lab slots in the evening. This can also be changed for theory in the evening and lab in the morning.
 
+NOTE: _ algorithm_alone_.py is just to show the algorithm, it isn't required to run the timetable generator. 
+
 
 
 
