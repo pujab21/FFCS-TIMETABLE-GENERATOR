@@ -1,5 +1,5 @@
 # FFCS-TIMETABLE-GENERATOR
-This will generate a timetable from course allocation report,based on users priority.
+This will generate a timetable from course allocation report, based on user's priority.
 
 Problem statement: Parse the document and bring it into JSON form. Then take inputs from the user and create an algorithm to generate a timetable.
 
