@@ -1,0 +1,7224 @@
+{
+ "BSTS102P": {
+  "COURSE TITLE": "Quantitative Skills Practice II",
+  "CREDITS": 1.5,
+  "SLOTS": {
+   "F1+TF1": 61,
+   "F2+TF2": 60
+  },
+  "FACE (APT)": [
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2"
+  ],
+  "ETHNUS (APT)": [
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2"
+  ],
+  "SMART (APT)": [
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2"
+  ]
+ },
+ "STS1022": {
+  "COURSE TITLE": "Introduction to Business Communication",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "F1+TF1": 8,
+   "F2+TF2": 7
+  },
+  "SMART (APT)": [
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1"
+  ],
+  "FACE (APT)": [
+   "F2+TF2",
+   "F2+TF2",
+   "F1+TF1",
+   "F1+TF1",
+   "F2+TF2"
+  ],
+  "ETHNUS (APT)": [
+   "F1+TF1",
+   "F2+TF2",
+   "F2+TF2",
+   "F2+TF2"
+  ]
+ },
+ "STS4002": {
+  "COURSE TITLE": "Preparing for Industry",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "G1+TG1": 4,
+   "G2+TG2": 3
+  },
+  "ETHNUS (APT)": [
+   "G1+TG1",
+   "G2+TG2"
+  ],
+  "FACE (APT)": [
+   "G1+TG1",
+   "G2+TG2"
+  ],
+  "SMART (APT)": [
+   "G1+TG1",
+   "G2+TG2"
+  ]
+ },
+ "STS4012": {
+  "COURSE TITLE": "Programming and Problem Solving Skills",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "G1+TG1": 3,
+   "G2+TG2": 2
+  },
+  "ETHNUS (APT)": [
+   "G1+TG1"
+  ],
+  "FACE (APT)": [
+   "G1+TG1"
+  ],
+  "SMART (APT)": [
+   "G2+TG2",
+   "G2+TG2"
+  ]
+ },
+ "STS5002": {
+  "COURSE TITLE": "Preparing for Industry",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "G1+TG1": 8,
+   "G2+TG2": 6
+  },
+  "FACE (APT)": [
+   "G1+TG1",
+   "G2+TG2",
+   "G2+TG2",
+   "G2+TG2",
+   "G2+TG2"
+  ],
+  "ETHNUS (APT)": [
+   "G1+TG1",
+   "G2+TG2",
+   "G1+TG1",
+   "G1+TG1"
+  ],
+  "SMART (APT)": [
+   "G1+TG1",
+   "G1+TG1",
+   "G2+TG2",
+   "G1+TG1"
+  ]
+ },
+ "STS5102": {
+  "COURSE TITLE": "Programming and Problem Solving Skills",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "G1+TG1": 3,
+   "G2+TG2": 2
+  },
+  "ETHNUS (APT)": [
+   "G1+TG1"
+  ],
+  "FACE (APT)": [
+   "G2+TG2",
+   "G1+TG1"
+  ],
+  "SMART (APT)": [
+   "G2+TG2"
+  ]
+ },
+ "BCHY101L": {
+  "COURSE TITLE": "Engineering Chemistry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 12,
+   "D2+TD2": 10,
+   "B1+TB1": 4,
+   "B2+TB2": 3,
+   "G1+TG1": 5,
+   "G2+TG2": 5,
+   "E2+TE2": 5,
+   "E1+TE1": 6
+  },
+  "BUVANESWARI G": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "PUNDLIK RAMBHAU BHAGAT": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "KARTHIKEYAN S": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "SRIRAGHAVAN K": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "SARVESWARI S": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "SUMATHI S": [
+   "D1+TD1"
+  ],
+  "RAVIKANTH K": [
+   "D2+TD2"
+  ],
+  "SATISH KUMAR G": [
+   "D1+TD1"
+  ],
+  "GANESH BABU S": [
+   "D2+TD2"
+  ],
+  "SANGEETHA D": [
+   "D1+TD1"
+  ],
+  "U. VIJAYALAKSHMI": [
+   "D2+TD2"
+  ],
+  "SASIKUMAR S": [
+   "D1+TD1"
+  ],
+  "ANAND PRABU A": [
+   "D2+TD2",
+   "E1+TE1"
+  ],
+  "THENMOZHI K": [
+   "D1+TD1"
+  ],
+  "MAUSUMI GOSWAMI": [
+   "D2+TD2"
+  ],
+  "PADALA KISHOR": [
+   "D1+TD1"
+  ],
+  "SIVAKUMAR. A": [
+   "B1+TB1"
+  ],
+  "KANNADASAN S": [
+   "B2+TB2"
+  ],
+  "SENTHILKUMAR S": [
+   "B1+TB1"
+  ],
+  "MANISH KUMAR MISHRA": [
+   "B2+TB2"
+  ],
+  "BARNALI MAITI": [
+   "B1+TB1"
+  ],
+  "SUSEEM S.R": [
+   "B2+TB2"
+  ],
+  "ANISHA THOMAS": [
+   "B1+TB1"
+  ],
+  "AKELLA SIVARAMAKRISHNA": [
+   "G1+TG1"
+  ],
+  "NAWAZ KHAN F": [
+   "G2+TG2"
+  ],
+  "VEERA VENKATA RAMESH E": [
+   "G1+TG1"
+  ],
+  "CHANDAN MAITY": [
+   "G2+TG2"
+  ],
+  "ARUNPRASAD M": [
+   "G1+TG1"
+  ],
+  "NAPOLEON A.A": [
+   "G2+TG2"
+  ],
+  "AKHILA MAHESWARI M": [
+   "G1+TG1"
+  ],
+  "AMIT KUMAR TIWARI": [
+   "G2+TG2"
+  ],
+  "SUSANTA KUMAR BHUNIA": [
+   "G1+TG1"
+  ],
+  "SATHISH KUMAR P": [
+   "G2+TG2"
+  ],
+  "KAUSHIK CHANDA": [
+   "E2+TE2"
+  ],
+  "MADHVESH PATHAK": [
+   "E1+TE1"
+  ],
+  "BADAL KUMAR MANDAL": [
+   "E2+TE2"
+  ],
+  "KARPAGAM S": [
+   "E1+TE1"
+  ],
+  "VIJAYARAGHAVAN R": [
+   "E2+TE2"
+  ],
+  "MANJU S L": [
+   "E2+TE2"
+  ],
+  "PRIYANKAR PAIRA": [
+   "E1+TE1"
+  ],
+  "MADHUMITHA G": [
+   "E2+TE2"
+  ],
+  "CHARLES BEROMEO BHEETER ": [
+   "E1+TE1"
+  ],
+  "PALANISAMI N": [
+   "E1+TE1"
+  ]
+ },
+ "BCHY101P": {
+  "COURSE TITLE": "Engineering Chemistry Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L37+L38": 5,
+   "L7+L8": 2,
+   "L57+L58": 4,
+   "L25+L26": 4,
+   "L39+L40": 8,
+   "L9+L10": 6,
+   "L55+L56": 2,
+   "L13+L14": 2,
+   "L43+L44": 4,
+   "L15+L16": 4,
+   "L51+L52": 2,
+   "L45+L46": 2,
+   "L27+L28": 4,
+   "L31+L32": 6,
+   "L29+L30": 4,
+   "L49+L50": 4,
+   "L3+L4": 4,
+   "L33+L34": 4,
+   "L19+L20": 4,
+   "L35+L36": 4,
+   "L5+L6": 4,
+   "L41+L42": 2,
+   "L11+L12": 6,
+   "L59+L60": 2,
+   "L47+L48": 4,
+   "L23+L24": 2
+  },
+  "BUVANESWARI G": [
+   "L37+L38",
+   "L9+L10"
+  ],
+  "SIVAKUMAR. A": [
+   "L37+L38",
+   "L45+L46",
+   "L33+L34"
+  ],
+  "U. VIJAYALAKSHMI": [
+   "L7+L8"
+  ],
+  "AMIT KUMAR TIWARI": [
+   "L7+L8",
+   "L19+L20"
+  ],
+  "KARTHIKEYAN S": [
+   "L57+L58",
+   "L15+L16"
+  ],
+  "ARUNPRASAD M": [
+   "L57+L58",
+   "L33+L34"
+  ],
+  "MAUSUMI GOSWAMI": [
+   "L25+L26",
+   "L11+L12"
+  ],
+  "CHANDAN MAITY": [
+   "L25+L26",
+   "L3+L4",
+   "L23+L24"
+  ],
+  "SRIRAGHAVAN K": [
+   "L39+L40",
+   "L9+L10"
+  ],
+  "PALANISAMI N": [
+   "L39+L40",
+   "L35+L36"
+  ],
+  "PADALA KISHOR": [
+   "L9+L10",
+   "L51+L52",
+   "L35+L36"
+  ],
+  "SARVESWARI S": [
+   "L37+L38",
+   "L9+L10"
+  ],
+  "SUMATHI S": [
+   "L37+L38",
+   "L55+L56",
+   "L45+L46",
+   "L31+L32"
+  ],
+  "PRIYANKAR PAIRA": [
+   "L55+L56",
+   "L33+L34",
+   "L47+L48"
+  ],
+  "RAVIKANTH K": [
+   "L13+L14"
+  ],
+  "MANJU S L": [
+   "L13+L14",
+   "L27+L28",
+   "L5+L6",
+   "L49+L50"
+  ],
+  "SATISH KUMAR G": [
+   "L57+L58"
+  ],
+  "BARNALI MAITI": [
+   "L57+L58",
+   "L31+L32"
+  ],
+  "GANESH BABU S": [
+   "L25+L26",
+   "L5+L6"
+  ],
+  "NAWAZ KHAN F": [
+   "L25+L26",
+   "L3+L4",
+   "L9+L10"
+  ],
+  "SANGEETHA D": [
+   "L39+L40"
+  ],
+  "ANISHA THOMAS": [
+   "L39+L40",
+   "L31+L32",
+   "L47+L48"
+  ],
+  "SASIKUMAR S": [
+   "L43+L44"
+  ],
+  "CHARLES BEROMEO BHEETER ": [
+   "L43+L44",
+   "L51+L52",
+   "L47+L48"
+  ],
+  "ANAND PRABU A": [
+   "L15+L16",
+   "L59+L60"
+  ],
+  "BADAL KUMAR MANDAL": [
+   "L15+L16",
+   "L11+L12",
+   "L23+L24"
+  ],
+  "THENMOZHI K": [
+   "L43+L44"
+  ],
+  "KARPAGAM S": [
+   "L43+L44",
+   "L31+L32",
+   "L3+L4",
+   "L41+L42"
+  ],
+  "KANNADASAN S": [
+   "L27+L28"
+  ],
+  "MANISH KUMAR MISHRA": [
+   "L27+L28",
+   "L9+L10"
+  ],
+  "ASHARANI I.V": [
+   "L27+L28"
+  ],
+  "SUSEEM S.R": [
+   "L29+L30"
+  ],
+  "JIANPING HU": [
+   "L29+L30"
+  ],
+  "TAPAS GHATAK": [
+   "L31+L32"
+  ],
+  "AKELLA SIVARAMAKRISHNA": [
+   "L49+L50"
+  ],
+  "RAJASEKAR P": [
+   "L49+L50",
+   "L35+L36"
+  ],
+  "SAI SARASWATHI V": [
+   "L3+L4"
+  ],
+  "NAPOLEON A.A": [
+   "L19+L20"
+  ],
+  "SENTHIL KUMAR A": [
+   "L19+L20"
+  ],
+  "SUSANTA KUMAR BHUNIA": [
+   "L33+L34",
+   "L59+L60"
+  ],
+  "TAMAS KUMAR PANDA": [
+   "L19+L20",
+   "L5+L6",
+   "L41+L42"
+  ],
+  "SATHISH KUMAR P": [
+   "L29+L30",
+   "L47+L48"
+  ],
+  "MOHANA ROOPAN S": [
+   "L29+L30"
+  ],
+  "KAUSHIK CHANDA": [
+   "L5+L6"
+  ],
+  "MADHVESH PATHAK": [
+   "L35+L36"
+  ],
+  "VIJAYARAGHAVAN R": [
+   "L11+L12"
+  ],
+  "MADHUMITHA G": [
+   "L11+L12"
+  ],
+  "VEERA VENKATA RAMESH E": [
+   "L39+L40"
+  ],
+  "VIJAYANAND C": [
+   "L39+L40"
+  ],
+  "MARY SARAL A": [
+   "L15+L16"
+  ],
+  "PUNDLIK RAMBHAU BHAGAT": [
+   "L11+L12",
+   "L39+L40"
+  ],
+  "THIRUMANAVELAN G": [
+   "L11+L12"
+  ],
+  "SENTHILKUMAR S": [
+   "L49+L50"
+  ],
+  "AKHILA MAHESWARI M": [
+   "L31+L32"
+  ],
+  "RAJASEKHARA REDDY SABBASANI": [
+   "L39+L40"
+  ]
+ },
+ "BMAT101L": {
+  "COURSE TITLE": "Calculus",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "G2+TG2": 4,
+   "G1+TG1": 4
+  },
+  "VENKATESWARLU B": [
+   "G2+TG2"
+  ],
+  "LAKSHMINARAYANA P": [
+   "G1+TG1"
+  ],
+  "REENU RANI": [
+   "G2+TG2"
+  ],
+  "PERI KAMESWARA KAMESWARAN": [
+   "G1+TG1"
+  ],
+  "INDHIRA K": [
+   "G1+TG1"
+  ],
+  "RAVI SANKAR J": [
+   "G2+TG2"
+  ],
+  "VALLAMPATI RAMACHANDRA PRASAD": [
+   "G1+TG1"
+  ]
+ },
+ "BMAT101P": {
+  "COURSE TITLE": "Calculus Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L7+L8": 2,
+   "L53+L54": 1,
+   "L3+L4": 1,
+   "L33+L34": 1,
+   "L49+L50": 1,
+   "L5+L6": 1,
+   "L39+L40": 1
+  },
+  "VENKATESWARLU B": [
+   "L7+L8"
+  ],
+  "LAKSHMINARAYANA P": [
+   "L53+L54"
+  ],
+  "REENU RANI": [
+   "L3+L4"
+  ],
+  "PERI KAMESWARA KAMESWARAN": [
+   "L33+L34"
+  ],
+  "INDHIRA K": [
+   "L49+L50"
+  ],
+  "RAVI SANKAR J": [
+   "L5+L6"
+  ],
+  "VALLAMPATI RAMACHANDRA PRASAD": [
+   "L39+L40"
+  ]
+ },
+ "BMAT102L": {
+  "COURSE TITLE": "Differential Equations and Transforms",
+  "CREDITS": 4.0,
+  "SLOTS": {
+   "A1+TA1+TAA1": 27,
+   "A2+TA2+TAA2": 20,
+   "C1+TC1+TCC1": 31,
+   "C2+TC2+TCC2": 16,
+   "B2+TB2+TBB2": 10,
+   "D2+TD2+TDD2": 5
+  },
+  "KALAIVANI K": [
+   "A1+TA1+TAA1",
+   "B2+TB2+TBB2"
+  ],
+  "POORNIMA T": [
+   "A1+TA1+TAA1"
+  ],
+  "RAMU GEDDAVALASA": [
+   "A1+TA1+TAA1"
+  ],
+  "PRABHUJIT MOHAPATRA": [
+   "A1+TA1+TAA1"
+  ],
+  "DEBAROTI DAS": [
+   "A1+TA1+TAA1",
+   "C2+TC2+TCC2"
+  ],
+  "ABHISHEK DAS": [
+   "A1+TA1+TAA1",
+   "A2+TA2+TAA2"
+  ],
+  "CLEMENT J": [
+   "A1+TA1+TAA1",
+   "C1+TC1+TCC1"
+  ],
+  "VIJAYAKUMAR V": [
+   "A1+TA1+TAA1",
+   "C2+TC2+TCC2"
+  ],
+  "BALASUBRAMANI N": [
+   "A1+TA1+TAA1",
+   "C2+TC2+TCC2"
+  ],
+  "SELVAKUMAR R": [
+   "A2+TA2+TAA2"
+  ],
+  "TAMIZHARASI R": [
+   "A2+TA2+TAA2"
+  ],
+  "SANJAY KUMAR MOHANTY": [
+   "A1+TA1+TAA1",
+   "A2+TA2+TAA2"
+  ],
+  "RAJAN CHATTAMVALLI": [
+   "A2+TA2+TAA2"
+  ],
+  "SUMANT KUMAR": [
+   "A2+TA2+TAA2",
+   "C2+TC2+TCC2"
+  ],
+  "MUBASHIR UNNISSA M": [
+   "A2+TA2+TAA2"
+  ],
+  "MELLACHERUVU NAGA SRINIVASU": [
+   "A2+TA2+TAA2"
+  ],
+  "VEERAMANI S": [
+   "A2+TA2+TAA2"
+  ],
+  "PERI KAMESWARA KAMESWARAN": [
+   "A2+TA2+TAA2"
+  ],
+  "KALPANA PRIYA D": [
+   "A2+TA2+TAA2",
+   "C1+TC1+TCC1"
+  ],
+  "BALAJI S": [
+   "A2+TA2+TAA2",
+   "B2+TB2+TBB2"
+  ],
+  "UMAKANTA MISHRA": [
+   "C1+TC1+TCC1"
+  ],
+  "RAMESH KUMAR D": [
+   "C1+TC1+TCC1",
+   "A1+TA1+TAA1"
+  ],
+  "DINESH KUMAR S": [
+   "C1+TC1+TCC1",
+   "C2+TC2+TCC2"
+  ],
+  "KARTHIKA K": [
+   "C1+TC1+TCC1",
+   "A2+TA2+TAA2"
+  ],
+  "NAGA SATYA SRINIVAS AKKIRAJU": [
+   "C2+TC2+TCC2"
+  ],
+  "MONICA C": [
+   "C2+TC2+TCC2"
+  ],
+  "VIJAYA K": [
+   "A1+TA1+TAA1"
+  ],
+  "MURUGUSUNDARAMOORTHY G": [
+   "A1+TA1+TAA1"
+  ],
+  "ROY.S": [
+   "A1+TA1+TAA1"
+  ],
+  "NAGESHWAR RAO RAGI": [
+   "A1+TA1+TAA1"
+  ],
+  "UMA K": [
+   "A1+TA1+TAA1"
+  ],
+  "YOGALAKSHMI T": [
+   "B2+TB2+TBB2"
+  ],
+  "RAJENDRAN P": [
+   "B2+TB2+TBB2"
+  ],
+  "THILAGAVATHI K": [
+   "B2+TB2+TBB2"
+  ],
+  "NIRANJAN HARI": [
+   "B2+TB2+TBB2"
+  ],
+  "ANJANEYULU G.S.G.N": [
+   "C1+TC1+TCC1"
+  ],
+  "THAMIZHARASI TAMIZHMANI": [
+   "C1+TC1+TCC1"
+  ],
+  "BALA ANKI REDDY POL": [
+   "C1+TC1+TCC1"
+  ],
+  "VIJAYA KUMAR A.G": [
+   "C1+TC1+TCC1"
+  ],
+  "SHARIEF BASHA S": [
+   "C1+TC1+TCC1"
+  ],
+  "SHOBANA DEVI N": [
+   "C2+TC2+TCC2",
+   "C1+TC1+TCC1"
+  ],
+  "RACHNA BHATIA": [
+   "C2+TC2+TCC2",
+   "C1+TC1+TCC1"
+  ],
+  "RAJESH BHATT": [
+   "C2+TC2+TCC2",
+   "C1+TC1+TCC1"
+  ],
+  "PRADEEP KUMAR SAROJ": [
+   "C2+TC2+TCC2",
+   "C1+TC1+TCC1"
+  ],
+  "RAGUKUMAR P": [
+   "C2+TC2+TCC2"
+  ],
+  "PADIGEPATI NAVEEN": [
+   "C2+TC2+TCC2",
+   "C1+TC1+TCC1"
+  ],
+  "RAVI SANKAR J": [
+   "C1+TC1+TCC1"
+  ],
+  "VENKATA SATYANARAYANA": [
+   "A1+TA1+TAA1"
+  ],
+  "EZHILMARAN D": [
+   "A1+TA1+TAA1"
+  ],
+  "JAGATHESWARI S": [
+   "A1+TA1+TAA1"
+  ],
+  "ANKUSH CHANDA": [
+   "A1+TA1+TAA1",
+   "B2+TB2+TBB2"
+  ],
+  "MURUGAN V": [
+   "A1+TA1+TAA1",
+   "C1+TC1+TCC1"
+  ],
+  "CHANDRU M ": [
+   "A1+TA1+TAA1",
+   "D2+TD2+TDD2"
+  ],
+  "SUNANDA SAHA": [
+   "A1+TA1+TAA1",
+   "A2+TA2+TAA2"
+  ],
+  "UDHAYAKUMAR R": [
+   "A1+TA1+TAA1"
+  ],
+  "JAGADEESH KUMAR M.S": [
+   "A2+TA2+TAA2"
+  ],
+  "JAGADEESHKUMAR K": [
+   "A2+TA2+TAA2"
+  ],
+  "LAKSHMINARAYANA P": [
+   "A2+TA2+TAA2"
+  ],
+  "PRAKASH M": [
+   "A2+TA2+TAA2",
+   "C1+TC1+TCC1"
+  ],
+  "SUBRAMANYAM REDDY": [
+   "B2+TB2+TBB2"
+  ],
+  "PARVEZ ALAM": [
+   "B2+TB2+TBB2"
+  ],
+  "PRASAD THEEDA": [
+   "B2+TB2+TBB2",
+   "C1+TC1+TCC1"
+  ],
+  "GARGI CHAKRABORTY": [
+   "D2+TD2+TDD2"
+  ],
+  "VALLAMPATI RAMACHANDRA PRASAD": [
+   "D2+TD2+TDD2"
+  ],
+  "HEMANT KUMAR NASHINE": [
+   "D2+TD2+TDD2"
+  ],
+  "INDHIRA K": [
+   "C2+TC2+TCC2"
+  ],
+  "PHANEENDRA T": [
+   "C2+TC2+TCC2"
+  ],
+  "DEEPA G": [
+   "C2+TC2+TCC2"
+  ],
+  "ANAND PRATAP SINGH": [
+   "A1+TA1+TAA1"
+  ],
+  "MANIMARAN A": [
+   "C1+TC1+TCC1"
+  ],
+  "NATARAJAN G": [
+   "C1+TC1+TCC1"
+  ],
+  "KAVITHA K": [
+   "C1+TC1+TCC1"
+  ],
+  "RAJASEKARAN G": [
+   "C1+TC1+TCC1"
+  ],
+  "KUVAR SATYA SINGH": [
+   "C1+TC1+TCC1"
+  ],
+  "LAKSHMI NARAYAN MISHRA": [
+   "C1+TC1+TCC1"
+  ],
+  "MANJARI SIDHARTH": [
+   "C1+TC1+TCC1"
+  ],
+  "HEMADRI REDDY REGANTI": [
+   "C1+TC1+TCC1"
+  ],
+  "SRI RAMA VARA PRASAD BHUVANAGIRI": [
+   "C1+TC1+TCC1"
+  ],
+  "KAVITHA A": [
+   "A2+TA2+TAA2"
+  ],
+  "KASPAR S": [
+   "A2+TA2+TAA2"
+  ],
+  "ARUNA K": [
+   "D2+TD2+TDD2"
+  ],
+  "PRAVEEN T": [
+   "A1+TA1+TAA1"
+  ],
+  "AKELLA VENKATA SURYANARAYANA MURTY": [
+   "C1+TC1+TCC1"
+  ],
+  "ASHISH KUMAR PRASAD": [
+   "C1+TC1+TCC1"
+  ]
+ },
+ "BPHY101L": {
+  "COURSE TITLE": "Engineering Physics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 5,
+   "D2+TD2": 3,
+   "A1+TA1": 10,
+   "A2+TA2": 10,
+   "B1+TB1": 10,
+   "B2+TB2": 10,
+   "E1+TE1": 7,
+   "E2+TE2": 7,
+   "C1+TC1": 3,
+   "C2+TC2": 2
+  },
+  "SRIDHAR S": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "SHOBANA M K": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "EZHIL VIZHI R": [
+   "D1+TD1"
+  ],
+  "SUBRAMANIAM C.K": [
+   "D2+TD2"
+  ],
+  "RUBAN KUMAR A": [
+   "D1+TD1"
+  ],
+  "USHA RANI M": [
+   "A1+TA1",
+   "A2+TA2",
+   "B1+TB1"
+  ],
+  "ANUSHA P T": [
+   "A1+TA1",
+   "A2+TA2",
+   "B2+TB2"
+  ],
+  "SANDEEP CHAKRABORTY": [
+   "A1+TA1",
+   "A2+TA2",
+   "B1+TB1"
+  ],
+  "SURESH KUMAR VANDRANGI": [
+   "A1+TA1",
+   "A2+TA2",
+   "B2+TB2"
+  ],
+  "JAGADEESH SURE": [
+   "A1+TA1",
+   "A2+TA2",
+   "B1+TB1"
+  ],
+  "ABHISHEK KUMAR SINGH": [
+   "A1+TA1",
+   "A2+TA2",
+   "B2+TB2"
+  ],
+  "MALATHI M": [
+   "A1+TA1",
+   "A2+TA2"
+  ],
+  "SATHYA SWAROOP N.R": [
+   "A1+TA1",
+   "A2+TA2"
+  ],
+  "ANURADHA C": [
+   "A1+TA1",
+   "A2+TA2"
+  ],
+  "KURAGANTI VASU": [
+   "A1+TA1",
+   "A2+TA2"
+  ],
+  "JOSEPH NATHANAEL A": [
+   "B1+TB1"
+  ],
+  "DHANOJ GUPTA": [
+   "B2+TB2",
+   "E1+TE1",
+   "E2+TE2"
+  ],
+  "UMA MAHENDRA KUMAR K": [
+   "B1+TB1",
+   "B2+TB2"
+  ],
+  "SAMIR RANJAN MEHER": [
+   "B1+TB1",
+   "B2+TB2"
+  ],
+  "MURALI R": [
+   "B1+TB1",
+   "B2+TB2"
+  ],
+  "KRISHNA CHANDAR N": [
+   "B1+TB1",
+   "B2+TB2"
+  ],
+  "BALAKRISHNAN S": [
+   "B1+TB1"
+  ],
+  "SENTHUR PANDI R": [
+   "B2+TB2"
+  ],
+  "KALAINATHAN S": [
+   "B1+TB1",
+   "B2+TB2"
+  ],
+  "KRISHNAMOORTHI C": [
+   "E1+TE1",
+   "E2+TE2"
+  ],
+  "RAJAN BABU D": [
+   "E1+TE1",
+   "E2+TE2"
+  ],
+  "MADHURI W": [
+   "E1+TE1",
+   "E2+TE2"
+  ],
+  "ANKUR RASTOGI": [
+   "E1+TE1",
+   "E2+TE2"
+  ],
+  "VIJAYA CHAMUNDEESWARI S P": [
+   "E1+TE1",
+   "E2+TE2"
+  ],
+  "RAMESH BABU P": [
+   "E1+TE1",
+   "E2+TE2"
+  ],
+  "RAVI SHANKER BABU": [
+   "C1+TC1",
+   "C2+TC2"
+  ],
+  "DHRITIMAN GUPTA": [
+   "C1+TC1",
+   "C2+TC2"
+  ],
+  "TARUN": [
+   "C1+TC1"
+  ]
+ },
+ "BPHY101P": {
+  "COURSE TITLE": "Engineering Physics Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L31+L32": 4,
+   "L1+L2": 3,
+   "L33+L34": 3,
+   "L3+L4": 3,
+   "L35+L36": 3,
+   "L37+L38": 3,
+   "L7+L8": 3,
+   "L51+L52": 2,
+   "L15+L16": 3,
+   "L55+L56": 2,
+   "L21+L22": 2,
+   "L57+L58": 2,
+   "L39+L40": 3,
+   "L9+L10": 3,
+   "L53+L54": 3,
+   "L47+L48": 3,
+   "L11+L12": 3,
+   "L23+L24": 3,
+   "L27+L28": 2,
+   "L45+L46": 2,
+   "L43+L44": 1,
+   "L13+L14": 1,
+   "L25+L26": 2,
+   "L59+L60": 2,
+   "L29+L30": 2,
+   "L5+L6": 2,
+   "L41+L42": 2
+  },
+  "RAVI SHANKER BABU": [
+   "L31+L32",
+   "L1+L2"
+  ],
+  "DHRITIMAN GUPTA": [
+   "L33+L34",
+   "L3+L4"
+  ],
+  "TARUN": [
+   "L35+L36"
+  ],
+  "SRIDHAR S": [
+   "L37+L38",
+   "L7+L8"
+  ],
+  "SHOBANA M K": [
+   "L51+L52",
+   "L15+L16"
+  ],
+  "EZHIL VIZHI R": [
+   "L55+L56"
+  ],
+  "SUBRAMANIAM C.K": [
+   "L21+L22"
+  ],
+  "RUBAN KUMAR A": [
+   "L57+L58"
+  ],
+  "USHA RANI M": [
+   "L39+L40",
+   "L9+L10",
+   "L53+L54"
+  ],
+  "ANUSHA P T": [
+   "L47+L48",
+   "L11+L12",
+   "L23+L24"
+  ],
+  "SANDEEP CHAKRABORTY": [
+   "L39+L40",
+   "L9+L10",
+   "L53+L54"
+  ],
+  "SURESH KUMAR VANDRANGI": [
+   "L47+L48",
+   "L11+L12",
+   "L23+L24"
+  ],
+  "JAGADEESH SURE": [
+   "L39+L40",
+   "L9+L10",
+   "L53+L54"
+  ],
+  "ABHISHEK KUMAR SINGH": [
+   "L47+L48",
+   "L11+L12",
+   "L23+L24"
+  ],
+  "MALATHI M": [
+   "L37+L38",
+   "L3+L4"
+  ],
+  "SATHYA SWAROOP N.R": [
+   "L33+L34",
+   "L7+L8"
+  ],
+  "ANURADHA C": [
+   "L37+L38",
+   "L7+L8"
+  ],
+  "KURAGANTI VASU": [
+   "L51+L52",
+   "L21+L22"
+  ],
+  "JOSEPH NATHANAEL A": [
+   "L31+L32"
+  ],
+  "DHANOJ GUPTA": [
+   "L27+L28",
+   "L45+L46",
+   "L15+L16"
+  ],
+  "UMA MAHENDRA KUMAR K": [
+   "L43+L44",
+   "L13+L14"
+  ],
+  "SAMIR RANJAN MEHER": [
+   "L55+L56",
+   "L25+L26"
+  ],
+  "MURALI R": [
+   "L57+L58",
+   "L27+L28"
+  ],
+  "KRISHNA CHANDAR N": [
+   "L59+L60",
+   "L29+L30"
+  ],
+  "BALAKRISHNAN S": [
+   "L59+L60"
+  ],
+  "SENTHUR PANDI R": [
+   "L29+L30"
+  ],
+  "KALAINATHAN S": [
+   "L31+L32",
+   "L25+L26"
+  ],
+  "KRISHNAMOORTHI C": [
+   "L45+L46",
+   "L15+L16"
+  ],
+  "RAJAN BABU D": [
+   "L35+L36",
+   "L5+L6"
+  ],
+  "MADHURI W": [
+   "L41+L42",
+   "L1+L2"
+  ],
+  "ANKUR RASTOGI": [
+   "L35+L36",
+   "L5+L6"
+  ],
+  "VIJAYA CHAMUNDEESWARI S P": [
+   "L41+L42",
+   "L1+L2"
+  ],
+  "RAMESH BABU P": [
+   "L33+L34",
+   "L3+L4"
+  ]
+ },
+ "CHY1002": {
+  "COURSE TITLE": "Environmental Sciences",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 5,
+   "B2+TB2": 4
+  },
+  "JIANPING HU": [
+   "B1+TB1"
+  ],
+  "SANGEETHA D": [
+   "B2+TB2"
+  ],
+  "MOHANA ROOPAN S": [
+   "B1+TB1"
+  ],
+  "SATISH KUMAR G": [
+   "B2+TB2"
+  ],
+  "MADHUMITHA G": [
+   "B1+TB1"
+  ],
+  "SAI SARASWATHI V": [
+   "B2+TB2"
+  ],
+  "SANTHAKUMAR K": [
+   "B1+TB1"
+  ],
+  "THENMOZHI K": [
+   "B2+TB2"
+  ]
+ },
+ "CHY5005": {
+  "COURSE TITLE": "Inorganic Chemistry",
+  "CREDITS": 4.0,
+  "SLOTS": {
+   "A2+TA2+TAA2": 3
+  },
+  "SHEELA A": [
+   "A2+TA2+TAA2"
+  ],
+  "THIRUMANAVELAN G": [
+   "A2+TA2+TAA2"
+  ]
+ },
+ "CHY5006": {
+  "COURSE TITLE": "Analytical Chemistry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F2+TF2": 3,
+   "NIL": 2
+  },
+  "SENTHIL KUMAR A": [
+   "F2+TF2",
+   "NIL"
+  ],
+  "PRABHAKARAN D": [
+   "F2+TF2",
+   "NIL"
+  ]
+ },
+ "CHY5007": {
+  "COURSE TITLE": "Inorganic Chemistry Practical\u2010I",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L13+L14+L15+L16": 2,
+   "L1+L2+L3+L4": 1,
+   "L19+L20+L21+L22": 1
+  },
+  "MADHVESH PATHAK": [
+   "L13+L14+L15+L16"
+  ],
+  "SOVAN ROY": [
+   "L1+L2+L3+L4"
+  ],
+  "CHERALATHAN K.K.": [
+   "L19+L20+L21+L22"
+  ]
+ },
+ "CHY5008": {
+  "COURSE TITLE": "Analytical Chemistry Practical\u2010I",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L13+L14+L15+L16": 2,
+   "L1+L2+L3+L4": 1,
+   "L19+L20+L21+L22": 1
+  },
+  "SIVAKUMAR. A": [
+   "L13+L14+L15+L16"
+  ],
+  "BADAL KUMAR MANDAL": [
+   "L1+L2+L3+L4"
+  ],
+  "ASHARANI I.V": [
+   "L19+L20+L21+L22"
+  ]
+ },
+ "CHY6001": {
+  "COURSE TITLE": "NMR, EPR and Mass spectrometry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 2
+  },
+  "VIJAYAKUMAR V": [
+   "B2+TB2"
+  ]
+ },
+ "CHY6002": {
+  "COURSE TITLE": "Bioorganic  Chemistry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "RAJAGOPAL D": [
+   "E2+TE2"
+  ]
+ },
+ "CHY6003": {
+  "COURSE TITLE": "Chemistry of Natural Products",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 2
+  },
+  "MOHANA ROOPAN S": [
+   "B2+TB2"
+  ]
+ },
+ "CHY6004": {
+  "COURSE TITLE": "Green Chemistry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "SATHIYANARAYANAN K": [
+   "E2+TE2"
+  ]
+ },
+ "CHY6005": {
+  "COURSE TITLE": "Polymer Chemistry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "AKELLA SIVARAMAKRISHNA": [
+   "E2+TE2"
+  ]
+ },
+ "CHY6007": {
+  "COURSE TITLE": "Drug Design",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 2
+  },
+  "ETHIRAJ K R": [
+   "B2+TB2"
+  ]
+ },
+ "CHY6009": {
+  "COURSE TITLE": "Organometallics and Industrial Applications",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 2
+  },
+  "RAJASEKHARA REDDY SABBASANI": [
+   "B2+TB2"
+  ]
+ },
+ "CHY6011": {
+  "COURSE TITLE": "Computational Chemistry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "THIRUMOORTHY K.": [
+   "E2+TE2"
+  ]
+ },
+ "CHY6026": {
+  "COURSE TITLE": "Nanomaterials and Characterization Techniques",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C2+TC2": 2,
+   "NIL": 1,
+   "3": 1,
+   "1": 1
+  },
+  "CHERALATHAN K.K.": [
+   "C2+TC2",
+   "NIL"
+  ],
+  "C2+TC2": [
+   "3"
+  ],
+  "NIL": [
+   "1"
+  ]
+ },
+ "CHY6040": {
+  "COURSE TITLE": "Quantum Chemistry, Group Theory and Molecular Spectrosco",
+  "CREDITS": 0,
+  "SLOTS": {
+   "3": 3
+  },
+  "D2+TD2": [
+   "3",
+   "3"
+  ]
+ },
+ "MAT1014": {
+  "COURSE TITLE": "Discrete Mathematics and Graph Theory",
+  "CREDITS": 0,
+  "SLOTS": {
+   "4": 8
+  },
+  "A1+TA1+TAA1+V1": [
+   "4",
+   "4",
+   "4",
+   "4"
+  ],
+  "A2+TA2+TAA2+V3": [
+   "4",
+   "4",
+   "4"
+  ]
+ },
+ "MAT1019": {
+  "COURSE TITLE": "Statistical Methods for Data Analysis",
+  "CREDITS": 0,
+  "SLOTS": {
+   "4": 2
+  },
+  "C2+TC2+TCC2+V4": [
+   "4"
+  ]
+ },
+ "MAT1020": {
+  "COURSE TITLE": "Sampling Techniques",
+  "CREDITS": 0,
+  "SLOTS": {
+   "3": 2
+  },
+  "B2+TB2": [
+   "3"
+  ]
+ },
+ "MAT2001": {
+  "COURSE TITLE": "Statistics for Engineers",
+  "CREDITS": 0,
+  "SLOTS": {
+   "3": 8,
+   "1": 7
+  },
+  "D1+TD1": [
+   "3",
+   "3",
+   "3",
+   "3"
+  ],
+  "D2+TD2": [
+   "3",
+   "3",
+   "3"
+  ],
+  "L39+L40": [
+   "1"
+  ],
+  "L5+L6": [
+   "1"
+  ],
+  "L35+L36": [
+   "1"
+  ],
+  "L3+L4": [
+   "1"
+  ],
+  "L45+L46": [
+   "1"
+  ],
+  "L15+L16": [
+   "1"
+  ],
+  "L33+L34": [
+   "1"
+  ]
+ },
+ "MAT2002": {
+  "COURSE TITLE": "Applications of Differential and Difference Equations",
+  "CREDITS": 0,
+  "SLOTS": {
+   "3": 9,
+   "1": 2,
+   "L37+L38": 1,
+   "L7+L8": 1,
+   "L33+L34": 1,
+   "L47+L48": 1,
+   "L31+L32": 1,
+   "L21+L22": 1
+  },
+  "A2+TA2": [
+   "3",
+   "3",
+   "3",
+   "3"
+  ],
+  "A1+TA1": [
+   "3",
+   "3",
+   "3",
+   "3"
+  ],
+  "L19+L20": [
+   "1"
+  ],
+  "L29+L30": [
+   "1"
+  ],
+  "HEMANT KUMAR NASHINE": [
+   "L37+L38"
+  ],
+  "THAMIZHARASI TAMIZHMANI": [
+   "L7+L8"
+  ],
+  "JAGADEESH KUMAR M.S": [
+   "L33+L34"
+  ],
+  "MELLACHERUVU NAGA SRINIVASU": [
+   "L47+L48"
+  ],
+  "PHANEENDRA T": [
+   "L31+L32"
+  ],
+  "EZHILMARAN D": [
+   "L21+L22"
+  ]
+ },
+ "MAT2006": {
+  "COURSE TITLE": "Distribution Theory and its Applications",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "G2+TG2": 2,
+   "L15+L16": 1
+  },
+  "MYTHILI G Y": [
+   "G2+TG2",
+   "L15+L16"
+  ]
+ },
+ "MAT2007": {
+  "COURSE TITLE": "Linear Algebra and Numerical Methods",
+  "CREDITS": 4.0,
+  "SLOTS": {
+   "A2+TA2+TAA2+V3": 2
+  },
+  "SRI RAMA VARA PRASAD BHUVANAGIRI": [
+   "A2+TA2+TAA2+V3"
+  ]
+ },
+ "MAT5013": {
+  "COURSE TITLE": "Statistical Inference",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 2,
+   "C2+TC2": 1,
+   "L45+L46": 1,
+   "L7+L8": 1
+  },
+  "VENKATARAMANA B": [
+   "C1+TC1",
+   "C2+TC2",
+   "L45+L46",
+   "L7+L8"
+  ]
+ },
+ "MAT5016": {
+  "COURSE TITLE": "Time Series Analysis and Forecasting",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 2,
+   "A2+TA2": 1,
+   "L49+L50": 1,
+   "L19+L20": 1
+  },
+  "SATHYA NARAYANA SHARMA K": [
+   "A1+TA1",
+   "A2+TA2",
+   "L49+L50",
+   "L19+L20"
+  ]
+ },
+ "MAT5022": {
+  "COURSE TITLE": "Modelling and Simulation",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A2": 2,
+   "L29+L30": 1
+  },
+  "JITENDRA KUMAR": [
+   "A2",
+   "L29+L30"
+  ]
+ },
+ "MAT5023": {
+  "COURSE TITLE": "Machine Learning with Business Applications",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B2": 2,
+   "L19+L20": 1
+  },
+  "EASWARAMOORTHY": [
+   "B2",
+   "L19+L20"
+  ]
+ },
+ "MAT5024": {
+  "COURSE TITLE": "Decision Support Systems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C2": 2,
+   "NIL": 1
+  },
+  "RAJAN CHATTAMVALLI": [
+   "C2",
+   "NIL"
+  ]
+ },
+ "MAT6002": {
+  "COURSE TITLE": "Regression Analysis and Predictive Models",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 2,
+   "B2+TB2": 1,
+   "L33+L34": 1,
+   "L9+L10": 1
+  },
+  "JITENDRA KUMAR": [
+   "B1+TB1",
+   "L33+L34"
+  ],
+  "SK. KHADAR BABU": [
+   "B2+TB2",
+   "L9+L10"
+  ]
+ },
+ "MAT6005": {
+  "COURSE TITLE": "Machine learning for Data Science",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 2,
+   "D2+TD2": 1,
+   "L51+L52": 1,
+   "L5+L6": 1
+  },
+  "RAJA DAS": [
+   "D1+TD1",
+   "D2+TD2",
+   "L51+L52",
+   "L5+L6"
+  ]
+ },
+ "MAT6006": {
+  "COURSE TITLE": "Mathematics for Machine Learning",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 2
+  },
+  "RAJAN CHATTAMVALLI": [
+   "C1+TC1"
+  ]
+ },
+ "MAT6009": {
+  "COURSE TITLE": "Design and Analysis of Experiments",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2,
+   "E2+TE2": 1,
+   "L57+L58": 1,
+   "L13+L14": 1
+  },
+  "MOKESHRAYALU G": [
+   "E1+TE1",
+   "E2+TE2",
+   "L57+L58",
+   "L13+L14"
+  ]
+ },
+ "MAT6014": {
+  "COURSE TITLE": "Production and Operations Management",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F2+TF2": 2
+  },
+  "RUSHI KUMAR B": [
+   "F2+TF2"
+  ]
+ },
+ "MAT6015": {
+  "COURSE TITLE": "Big Data Analytics and Visualization",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D2": 2,
+   "L23+L24": 1
+  },
+  "RAJESH MOHARANA": [
+   "D2",
+   "L23+L24"
+  ]
+ },
+ "MAT6016": {
+  "COURSE TITLE": "Network and Project Management",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "ANURADHA D": [
+   "E2+TE2"
+  ]
+ },
+ "MAT6021": {
+  "COURSE TITLE": "Artificial Intelligence in Business",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 2,
+   "L47+L48": 1
+  },
+  "ASHISH BHATT": [
+   "A1+TA1",
+   "L47+L48"
+  ]
+ },
+ "PHY1003": {
+  "COURSE TITLE": "Physics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 2,
+   "L47+L48": 1,
+   "NIL": 1
+  },
+  "JAMES JEBASEELAN SAMUEL E": [
+   "C1+TC1",
+   "L47+L48",
+   "NIL"
+  ]
+ },
+ "PHY1701": {
+  "COURSE TITLE": "Engineering Physics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "G1+TG1": 5,
+   "L43+L44": 1,
+   "G2+TG2": 3,
+   "L25+L26": 1,
+   "L45+L46": 1,
+   "L27+L28": 1,
+   "L55+L56": 1,
+   "L29+L30": 1,
+   "L57+L58": 1
+  },
+  "LAXMI NARAYAN TRIPATHI": [
+   "G1+TG1",
+   "L43+L44",
+   "G2+TG2",
+   "L25+L26"
+  ],
+  "LEEMA ROSE VIANNIE": [
+   "G1+TG1",
+   "L45+L46",
+   "G2+TG2",
+   "L27+L28"
+  ],
+  "SUMANGALA T P": [
+   "G1+TG1",
+   "L55+L56",
+   "G2+TG2",
+   "L29+L30"
+  ],
+  "ARUNAI NAMBIRAJ N": [
+   "G1+TG1",
+   "L57+L58"
+  ]
+ },
+ "PHY5005": {
+  "COURSE TITLE": "Quantum Mechanics",
+  "CREDITS": 4.0,
+  "SLOTS": {
+   "A1+TA1+TAA1": 2,
+   "A2+TA2+TAA2": 1
+  },
+  "RAMESH M THAMANKAR": [
+   "A1+TA1+TAA1",
+   "A2+TA2+TAA2"
+  ]
+ },
+ "PHY5006": {
+  "COURSE TITLE": "Statistical Mechanics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2,
+   "E2+TE2": 1
+  },
+  "BHASKAR SEN GUPTA": [
+   "E1+TE1",
+   "E2+TE2"
+  ]
+ },
+ "PHY5007": {
+  "COURSE TITLE": "General Physics Lab\u2010II",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L43+L44+L45+L46": 2,
+   "L21+L22+L23+L24": 1
+  },
+  "SENTHUR PANDI R": [
+   "L43+L44+L45+L46",
+   "L21+L22+L23+L24"
+  ]
+ },
+ "PHY6002": {
+  "COURSE TITLE": "Nuclear and Particle Physics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 2,
+   "NIL": 2,
+   "B2+TB2": 1
+  },
+  "SUDIPTA SAHA": [
+   "B1+TB1",
+   "NIL",
+   "B2+TB2",
+   "NIL"
+  ]
+ },
+ "PHY6006": {
+  "COURSE TITLE": "Nanomaterials and its applications",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 2,
+   "D2+TD2": 1
+  },
+  "ARPAN KUMAR NAYAK": [
+   "D1+TD1",
+   "D2+TD2"
+  ]
+ },
+ "TCHY103L": {
+  "COURSE TITLE": "Physical and Analytical Chemistry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "MARY SARAL A": [
+   "E2+TE2"
+  ]
+ },
+ "TCHY103P": {
+  "COURSE TITLE": "Physical and Analytical Chemistry Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L9+L10": 2
+  },
+  "MARY SARAL A": [
+   "L9+L10"
+  ]
+ },
+ "TMAT104L": {
+  "COURSE TITLE": "Ordinary and Partial Differential Equations",
+  "CREDITS": 4.0,
+  "SLOTS": {
+   "B2+TB2+TBB2": 2
+  },
+  "JAGADEESHKUMAR K": [
+   "B2+TB2+TBB2"
+  ]
+ },
+ "TPHY103L": {
+  "COURSE TITLE": "Modern Physics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C2+TC2": 2
+  },
+  "BALAKRISHNAN S": [
+   "C2+TC2"
+  ]
+ },
+ "TPHY103P": {
+  "COURSE TITLE": "Modern Physics Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L13+L14": 2
+  },
+  "BALAKRISHNAN S": [
+   "L13+L14"
+  ]
+ },
+ "BBIT100L": {
+  "COURSE TITLE": "Biology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 4,
+   "A2+TA2": 2
+  },
+  "GUNASEKARAN S": [
+   "A1+TA1",
+   "A2+TA2"
+  ],
+  "GAYATHRI M": [
+   "A1+TA1"
+  ],
+  "JITENDRA SATIJA": [
+   "A2+TA2"
+  ],
+  "NALINI E": [
+   "A1+TA1"
+  ]
+ },
+ "BBIT100N": {
+  "COURSE TITLE": "Biology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2,
+   "G1+TG1": 1,
+   "G2+TG2": 1
+  },
+  "SUGANTHAN V": [
+   "E1+TE1"
+  ],
+  "SUBHASHREE V": [
+   "G1+TG1",
+   "G2+TG2"
+  ]
+ },
+ "BIT5002": {
+  "COURSE TITLE": "Bioprocess Technology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 2,
+   "L37+L38": 1
+  },
+  "RAMESH PATHY M": [
+   "B1+TB1",
+   "L37+L38"
+  ]
+ },
+ "BIT5004": {
+  "COURSE TITLE": "Analytical Techniques in Biotechnology",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 2,
+   "NIL": 1
+  },
+  "SHANTHI C": [
+   "E1",
+   "NIL"
+  ]
+ },
+ "BIT5020": {
+  "COURSE TITLE": "Biobusiness Management",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "G2+TG2": 2
+  },
+  "ANAND PREM RAJAN": [
+   "G2+TG2"
+  ]
+ },
+ "BIT6007": {
+  "COURSE TITLE": "Food Process Technology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C2+TC2": 2
+  },
+  "RAMALINGAM C": [
+   "C2+TC2"
+  ]
+ },
+ "BIT6008": {
+  "COURSE TITLE": "Natural Product Technology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2
+  },
+  "SIVA R": [
+   "F1+TF1"
+  ]
+ },
+ "BIT6011": {
+  "COURSE TITLE": "Animal Biotechnology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 2
+  },
+  "SUDANDIRA DOSS C": [
+   "C1+TC1"
+  ]
+ },
+ "BIT6012": {
+  "COURSE TITLE": "Pharmaceutical Biotechnology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A2+TA2": 2
+  },
+  "SURESH P.K": [
+   "A2+TA2"
+  ]
+ },
+ "BIT6015": {
+  "COURSE TITLE": "Immunotechnology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D2+TD2": 2
+  },
+  "ANAND A": [
+   "D2+TD2"
+  ]
+ },
+ "BIT6019": {
+  "COURSE TITLE": "Cancer Biology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 2
+  },
+  "PATEL TRUPTI NAVINCHANDRA": [
+   "A1+TA1"
+  ]
+ },
+ "BIT6020": {
+  "COURSE TITLE": "Medical Biotechnology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 2
+  },
+  "JAYAPRAKASH N S": [
+   "D1+TD1"
+  ]
+ },
+ "BMG5007": {
+  "COURSE TITLE": "Developmental Genetics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 2
+  },
+  "ASHA DEVI S": [
+   "A1+TA1"
+  ]
+ },
+ "BMG5009": {
+  "COURSE TITLE": "Genetics of Human Infertility",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 2,
+   "NIL": 1
+  },
+  "ABILASH V.G": [
+   "B1",
+   "NIL"
+  ]
+ },
+ "BMG5013": {
+  "COURSE TITLE": "Stem Cell Biology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 2
+  },
+  "SURESH P.K": [
+   "B2+TB2"
+  ]
+ },
+ "BMG5015": {
+  "COURSE TITLE": "Introduction to Human Psychology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "G1+TG1": 2,
+   "G2+TG2": 1,
+   "F2+TF2": 1
+  },
+  "PRITI TALWAR": [
+   "G1+TG1",
+   "F2+TF2"
+  ],
+  "RADHA SARASWATHY": [
+   "G2+TG2"
+  ]
+ },
+ "BMG6001": {
+  "COURSE TITLE": "Human Biochemical Genetics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 2,
+   "NIL": 1
+  },
+  "KRISHNAN V": [
+   "E1",
+   "NIL"
+  ]
+ },
+ "BMG6002": {
+  "COURSE TITLE": "Clinical Cytogenetics and Prenatal Diagnosis",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C1": 2,
+   "L43+L44": 2,
+   "NIL": 2
+  },
+  "RADHA SARASWATHY": [
+   "C1",
+   "L43+L44",
+   "NIL"
+  ],
+  "ABILASH V.G": [
+   "L43+L44",
+   "NIL"
+  ]
+ },
+ "BMG6003": {
+  "COURSE TITLE": "Medical Biochemistry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "SAJAN GEORGE": [
+   "E2+TE2"
+  ]
+ },
+ "BST5004": {
+  "COURSE TITLE": "Immunology",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A1": 2,
+   "A2": 1
+  },
+  "RASOOL M": [
+   "A1"
+  ],
+  "KANNABIRAN K": [
+   "A2"
+  ]
+ },
+ "BST5005": {
+  "COURSE TITLE": "Medical Diagnostics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2,
+   "E2+TE2": 1
+  },
+  "VENKATRAMAN M": [
+   "E1+TE1"
+  ],
+  "MANJUBALA I": [
+   "E2+TE2"
+  ]
+ },
+ "BST5007": {
+  "COURSE TITLE": "Medical Biotechnology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2,
+   "F2+TF2": 1
+  },
+  "SAJAN GEORGE": [
+   "F1+TF1"
+  ],
+  "KAVITHA M": [
+   "F2+TF2"
+  ]
+ },
+ "BST5009": {
+  "COURSE TITLE": "Analytical Techniques in Biotechnology",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 2,
+   "B2": 1,
+   "L11+L12": 2,
+   "NIL": 4,
+   "L33+L34": 2
+  },
+  "PODILI KOTESWARAIAH": [
+   "B1",
+   "B2",
+   "L11+L12",
+   "NIL",
+   "L33+L34",
+   "NIL"
+  ],
+  "DEBASISH MISHRA": [
+   "L11+L12",
+   "NIL"
+  ],
+  "SATARUPA BANERJEE ": [
+   "L33+L34",
+   "NIL"
+  ]
+ },
+ "BST6004": {
+  "COURSE TITLE": "Forensic Science and Technology",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C1": 2,
+   "NIL": 2,
+   "C2": 1
+  },
+  "DANIE KINGSLEY J": [
+   "C1",
+   "NIL",
+   "C2",
+   "NIL"
+  ]
+ },
+ "BST6013": {
+  "COURSE TITLE": "Bioremediation",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "G1": 2,
+   "NIL": 2,
+   "G2": 1
+  },
+  "JABEZ OSBORNE W": [
+   "G1",
+   "NIL",
+   "G2",
+   "NIL"
+  ]
+ },
+ "BST6014": {
+  "COURSE TITLE": "Genomics and Proteomics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 2,
+   "D2+TD2": 1
+  },
+  "KAVITHA THIRUMURUGAN": [
+   "D1+TD1",
+   "D2+TD2"
+  ]
+ },
+ "MSM5001": {
+  "COURSE TITLE": "Biostatistics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D1": 2,
+   "L45+L46": 1,
+   "L57+L58": 1
+  },
+  "ANILKUMAR G": [
+   "D1",
+   "L45+L46",
+   "L57+L58"
+  ]
+ },
+ "MSM5005": {
+  "COURSE TITLE": "Immunology and Immunotechnology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 2,
+   "NIL": 2,
+   "A2+TA2": 1
+  },
+  "ASIT RANJAN GHOSH": [
+   "A1+TA1",
+   "NIL",
+   "A2+TA2",
+   "NIL"
+  ]
+ },
+ "MSM5006": {
+  "COURSE TITLE": "Microbial Physiology and Metabolism",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 2,
+   "B2": 1,
+   "L35+L36": 2,
+   "NIL": 4,
+   "L23+L24": 2
+  },
+  "MOHANASRINIVASAN V": [
+   "B1",
+   "B2",
+   "L35+L36",
+   "NIL",
+   "L23+L24",
+   "NIL"
+  ],
+  "TAMIZHSELVI R": [
+   "L35+L36",
+   "NIL"
+  ],
+  "KAVITHA M": [
+   "L23+L24",
+   "NIL"
+  ]
+ },
+ "MSM5007": {
+  "COURSE TITLE": "Environmental Microbiology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2,
+   "L53+L54": 1,
+   "L31+L32": 1
+  },
+  "RAMESH N": [
+   "F1+TF1",
+   "L53+L54",
+   "L31+L32"
+  ]
+ },
+ "MSM5008": {
+  "COURSE TITLE": "Food Microbiology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 2,
+   "C2+TC2": 1,
+   "L27+L28": 2,
+   "L47+L48": 2
+  },
+  "DEEPIKA ANAND": [
+   "D1+TD1",
+   "C2+TC2",
+   "L27+L28",
+   "L47+L48"
+  ],
+  "SUNEETHA V": [
+   "L27+L28",
+   "L47+L48"
+  ]
+ },
+ "MSM6001": {
+  "COURSE TITLE": "Medical Microbiology",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C1": 2,
+   "NIL": 2,
+   "D2": 1
+  },
+  "ANAND A": [
+   "C1",
+   "NIL"
+  ],
+  "RAMESH N": [
+   "D2",
+   "NIL"
+  ]
+ },
+ "MSM6002": {
+  "COURSE TITLE": "Diagnostic Microbiology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2,
+   "E2+TE2": 1,
+   "L11+L12": 2,
+   "L41+L42": 2
+  },
+  "BHASKARA RAO K.V": [
+   "E1+TE1",
+   "E2+TE2",
+   "L11+L12",
+   "L41+L42"
+  ],
+  "DANIE KINGSLEY J": [
+   "L11+L12",
+   "L41+L42"
+  ]
+ },
+ "MSM6003": {
+  "COURSE TITLE": "rDNA Technology",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2,
+   "NIL": 1
+  },
+  "SRIDHARAN T B": [
+   "F2",
+   "NIL"
+  ]
+ },
+ "RES5001": {
+  "COURSE TITLE": "Research Methodology",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F1": 2
+  },
+  "CHANDRA SEKARAN N": [
+   "F1"
+  ]
+ },
+ "TBIT101L": {
+  "COURSE TITLE": "Biological Science",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "G2+TG2": 2
+  },
+  "SANJIT KUMAR": [
+   "G2+TG2"
+  ]
+ },
+ "TBIT101P": {
+  "COURSE TITLE": "Biological Science Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L15+L16": 2
+  },
+  "SANJIT KUMAR": [
+   "L15+L16"
+  ]
+ },
+ "TBIT103L": {
+  "COURSE TITLE": "Cell Biology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 2,
+   "B2+TB2": 1,
+   "B1+TB1": 1
+  },
+  "KALAIVANI T": [
+   "A1+TA1"
+  ],
+  "GODWIN CHRISTOPHER J": [
+   "B2+TB2"
+  ],
+  "GAYATHRI M": [
+   "B1+TB1"
+  ]
+ },
+ "TBIT104L": {
+  "COURSE TITLE": "Molecular Biology",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 2,
+   "A2+TA2": 1,
+   "A1+TA1": 1
+  },
+  "GODWIN CHRISTOPHER J": [
+   "B1+TB1"
+  ],
+  "ABUL KALAM AZAD MANDAL": [
+   "A2+TA2",
+   "A1+TA1"
+  ]
+ },
+ "TBIT105P": {
+  "COURSE TITLE": "Cell and Molecular Biology Lab",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L25+L26+L27+L28": 3,
+   "L55+L56+L57+L58": 1,
+   "L51+L52+L53+L54": 2
+  },
+  "GODWIN CHRISTOPHER J": [
+   "L25+L26+L27+L28"
+  ],
+  "MYTHILI S": [
+   "L25+L26+L27+L28"
+  ],
+  "GAYATHRI M": [
+   "L55+L56+L57+L58"
+  ],
+  "KALAIVANI T": [
+   "L51+L52+L53+L54"
+  ],
+  "PATEL TRUPTI NAVINCHANDRA": [
+   "L51+L52+L53+L54"
+  ]
+ },
+ "TBIT106L": {
+  "COURSE TITLE": "Biochemistry",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C2+TC2": 2,
+   "C1+TC1": 2
+  },
+  "SABINA E.P": [
+   "C2+TC2",
+   "C1+TC1"
+  ],
+  "KALAIVANI T": [
+   "C1+TC1"
+  ]
+ },
+ "TBIT106P": {
+  "COURSE TITLE": "Biochemistry Lab",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L49+L50+L51+L52": 2,
+   "L3+L4+L5+L6": 2,
+   "L31+L32+L33+L34": 2
+  },
+  "SABINA E.P": [
+   "L49+L50+L51+L52",
+   "L3+L4+L5+L6"
+  ],
+  "KANNABIRAN K": [
+   "L3+L4+L5+L6"
+  ],
+  "KALAIVANI T": [
+   "L31+L32+L33+L34"
+  ],
+  "SUBHASHREE V": [
+   "L31+L32+L33+L34"
+  ]
+ },
+ "TBIT107L": {
+  "COURSE TITLE": "Industrial Unit Operations",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 3,
+   "D2+TD2": 1
+  },
+  "RAMANATHAN K": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "SHANTHI V": [
+   "D1+TD1"
+  ]
+ },
+ "TBIT107P": {
+  "COURSE TITLE": "Industrial Unit Operations Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L55+L56": 3,
+   "L9+L10": 2,
+   "L43+L44": 1
+  },
+  "RAMANATHAN K": [
+   "L55+L56",
+   "L9+L10"
+  ],
+  "SHANTHI V": [
+   "L55+L56",
+   "L43+L44"
+  ],
+  "JOHN THOMAS": [
+   "L9+L10"
+  ]
+ },
+ "CLE5012": {
+  "COURSE TITLE": "Design of Bridges",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 2,
+   "NIL": 1
+  },
+  "MOHAN GANESH G": [
+   "B1",
+   "NIL"
+  ]
+ },
+ "CLE5016": {
+  "COURSE TITLE": "Stability of Structures",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D2+TD2+V6": 2
+  },
+  "RAMA MOHAN RAO P": [
+   "D2+TD2+V6"
+  ]
+ },
+ "CLE5020": {
+  "COURSE TITLE": "Contract and Administration Planning",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 2
+  },
+  "SRINIVASAN": [
+   "B2+TB2"
+  ]
+ },
+ "CLE5021": {
+  "COURSE TITLE": "Construction Economics and Finance",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "SARAVANA KUMAR M P": [
+   "E2+TE2"
+  ]
+ },
+ "CLE5023": {
+  "COURSE TITLE": "Computer Application in Infrastructure Management",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "TA1": 2,
+   "L47+L48": 1,
+   "NIL": 1
+  },
+  "SIMON J": [
+   "TA1",
+   "L47+L48",
+   "NIL"
+  ]
+ },
+ "CLE6002": {
+  "COURSE TITLE": "Advanced Foundation Design",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2
+  },
+  "CHANDRASEKARAN S.S": [
+   "F1+TF1"
+  ]
+ },
+ "CLE6004": {
+  "COURSE TITLE": "Repair and Rehabilitation of Structures",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2
+  },
+  "SEKAR S K": [
+   "F1+TF1"
+  ]
+ },
+ "CLE6014": {
+  "COURSE TITLE": "Finite Element Analysis",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1+V2": 2,
+   "L53+L54": 1,
+   "C2+TC2+V4": 1,
+   "L3+L4": 1
+  },
+  "AJEESH S S": [
+   "C1+TC1+V2",
+   "L53+L54",
+   "C2+TC2+V4",
+   "L3+L4"
+  ]
+ },
+ "CLE6015": {
+  "COURSE TITLE": "Advanced Design of Steel Structures",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1+V1": 2,
+   "NIL": 2,
+   "A2+TA2+V3": 1
+  },
+  "PUNITHA KUMAR A": [
+   "A1+TA1+V1",
+   "NIL",
+   "A2+TA2+V3",
+   "NIL"
+  ]
+ },
+ "CLE6016": {
+  "COURSE TITLE": "Pre\u2010stressed Concrete Structures",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1+V7": 2
+  },
+  "HAREESH M": [
+   "E1+TE1+V7"
+  ]
+ },
+ "CLE6017": {
+  "COURSE TITLE": "Earthquake Resistant Design",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2,
+   "NIL": 1
+  },
+  "VISUVASAM J": [
+   "F2",
+   "NIL"
+  ]
+ },
+ "CLE6024": {
+  "COURSE TITLE": "Energy Efficient Buildings",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 2
+  },
+  "MURUGAVELH S": [
+   "B2+TB2"
+  ]
+ },
+ "CLE6028": {
+  "COURSE TITLE": "Project Formulation and Appraisal",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A2+TA2": 2
+  },
+  "PRASANNA VENKATESAN R": [
+   "A2+TA2"
+  ]
+ },
+ "CLE6029": {
+  "COURSE TITLE": "Infrastructure development and BOT, BOOT Projects",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D2": 2,
+   "NIL": 1
+  },
+  "SHANMUGA PRIYA T": [
+   "D2",
+   "NIL"
+  ]
+ },
+ "CLE6030": {
+  "COURSE TITLE": "Estimating, Tendering and Bidding",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 2
+  },
+  "BALA MURUGAN S": [
+   "D1+TD1"
+  ]
+ },
+ "CLE6032": {
+  "COURSE TITLE": "Prefabricated Techniques and Management",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 2
+  },
+  "JAYAPRAKASH J": [
+   "C1+TC1"
+  ]
+ },
+ "BCSE102L": {
+  "COURSE TITLE": "Structured and Object\u2010Oriented Programming",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D1": 6,
+   "D2": 5,
+   "B1": 6,
+   "A1": 5,
+   "B2": 6,
+   "C1": 6,
+   "C2": 6,
+   "A2": 6
+  },
+  "JAYARAM REDDY A": [
+   "D1",
+   "D2"
+  ],
+  "PRASANNA S": [
+   "D1",
+   "D2"
+  ],
+  "MAREESWARI V": [
+   "D1",
+   "D2"
+  ],
+  "THANAPAL P": [
+   "D1",
+   "D2"
+  ],
+  "ALAGIRI I": [
+   "D1",
+   "D2"
+  ],
+  "RISHIN HALDAR": [
+   "B1"
+  ],
+  "JAISANKAR N": [
+   "A1",
+   "A2"
+  ],
+  "GLADYS GNANA KIRUBA B": [
+   "B1",
+   "B2"
+  ],
+  "JAISAKTHI S M": [
+   "B1",
+   "B2"
+  ],
+  "JAYA SUBALAKSHMI R": [
+   "B1",
+   "B2"
+  ],
+  "PADMA PRIYA R": [
+   "B1",
+   "B2"
+  ],
+  "JOSHVA DEVADAS T": [
+   "C1",
+   "C2"
+  ],
+  "CHANDRA MOHAN B": [
+   "C1"
+  ],
+  "SHASHANK MOULI SATAPATHY": [
+   "C2",
+   "C1"
+  ],
+  "NAGA RAJA G": [
+   "C1",
+   "C2"
+  ],
+  "JAGALINGAM P": [
+   "C1",
+   "C2"
+  ],
+  "SRIVANI A": [
+   "C2"
+  ],
+  "ANURADHA D": [
+   "A1",
+   "A2"
+  ],
+  "GERALDINE BESSIE AMALI D": [
+   "A2"
+  ],
+  "ARUP GHOSH": [
+   "B2"
+  ],
+  "SENTHIL KUMAR K": [
+   "A1",
+   "A2"
+  ],
+  "SENTHILNATHAN": [
+   "A1",
+   "A2"
+  ],
+  "NARAYANAN PRASANTH": [
+   "C1",
+   "C2"
+  ],
+  "JANANI T": [
+   "A1",
+   "A2"
+  ],
+  "ANNY LEEMA A": [
+   "B2"
+  ],
+  "MADIAJAGAN M": [
+   "B1"
+  ]
+ },
+ "BCSE102P": {
+  "COURSE TITLE": "Structured and Object\u2010Oriented Programming Lab",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L47+L48+L55+L56": 2,
+   "L3+L4+L9+L10": 1,
+   "L49+L50+L55+L56": 1,
+   "L3+L4+L25+L26": 1,
+   "L9+L10+L25+L26": 2,
+   "L41+L42+L49+L50": 1,
+   "L35+L36+L43+L44": 1,
+   "L15+L16+L29+L30": 2,
+   "L37+L38+L47+L48": 1,
+   "L11+L12+L29+L30": 1,
+   "L37+L38+L53+L54": 1,
+   "L9+L10+L23+L24": 1,
+   "L5+L6+L15+L16": 2,
+   "L31+L32+L55+L56": 1,
+   "L39+L40+L49+L50": 1,
+   "L11+L12+L13+L14": 1,
+   "L31+L32+L57+L58": 1,
+   "L11+L12+L25+L26": 1,
+   "L51+L52+L59+L60": 1,
+   "L19+L20+L29+L30": 1,
+   "L41+L42+L51+L52": 1,
+   "L5+L6+L13+L14": 1,
+   "L51+L52+L55+L56": 1,
+   "L31+L32+L59+L60": 1,
+   "L9+L10+L15+L16": 2,
+   "L43+L44+L49+L50": 1,
+   "L5+L6+L21+L22": 1,
+   "L7+L8+L23+L24": 1,
+   "L31+L32+L47+L48": 1,
+   "L35+L36+L39+L40": 1,
+   "L3+L4+L23+L24": 1,
+   "L35+L36+L51+L52": 1,
+   "L39+L40+L57+L58": 1,
+   "L13+L14+L27+L28": 1,
+   "L7+L8+L29+L30": 1,
+   "L41+L42+L57+L58": 3,
+   "L7+L8+L15+L16": 1,
+   "L23+L24+L25+L26": 1,
+   "L47+L48+L57+L58": 1
+  },
+  "JAISANKAR N": [
+   "L47+L48+L55+L56",
+   "L3+L4+L9+L10"
+  ],
+  "SENTHIL KUMAR K": [
+   "L49+L50+L55+L56",
+   "L3+L4+L25+L26"
+  ],
+  "SRIVANI A": [
+   "L9+L10+L25+L26"
+  ],
+  "RISHIN HALDAR": [
+   "L41+L42+L49+L50"
+  ],
+  "GLADYS GNANA KIRUBA B": [
+   "L35+L36+L43+L44",
+   "L15+L16+L29+L30"
+  ],
+  "SENTHILNATHAN": [
+   "L37+L38+L47+L48",
+   "L11+L12+L29+L30"
+  ],
+  "NAGA RAJA G": [
+   "L37+L38+L53+L54",
+   "L9+L10+L23+L24"
+  ],
+  "JAYA SUBALAKSHMI R": [
+   "L5+L6+L15+L16",
+   "L31+L32+L55+L56"
+  ],
+  "ANURADHA D": [
+   "L39+L40+L49+L50",
+   "L5+L6+L15+L16"
+  ],
+  "PADMA PRIYA R": [
+   "L11+L12+L13+L14",
+   "L31+L32+L57+L58"
+  ],
+  "GERALDINE BESSIE AMALI D": [
+   "L11+L12+L25+L26"
+  ],
+  "JANANI T": [
+   "L51+L52+L59+L60",
+   "L19+L20+L29+L30"
+  ],
+  "CHANDRA MOHAN B": [
+   "L41+L42+L51+L52"
+  ],
+  "JAISAKTHI S M": [
+   "L5+L6+L13+L14",
+   "L51+L52+L55+L56"
+  ],
+  "SHASHANK MOULI SATAPATHY": [
+   "L31+L32+L59+L60",
+   "L9+L10+L15+L16"
+  ],
+  "MADIAJAGAN M": [
+   "L43+L44+L49+L50"
+  ],
+  "ANNY LEEMA A": [
+   "L5+L6+L21+L22"
+  ],
+  "NARAYANAN PRASANTH": [
+   "L7+L8+L23+L24",
+   "L31+L32+L47+L48"
+  ],
+  "JAGALINGAM P": [
+   "L35+L36+L39+L40",
+   "L3+L4+L23+L24"
+  ],
+  "ARUP GHOSH": [
+   "L15+L16+L29+L30"
+  ],
+  "JOSHVA DEVADAS T": [
+   "L35+L36+L51+L52",
+   "L9+L10+L15+L16"
+  ],
+  "JAYARAM REDDY A": [
+   "L39+L40+L57+L58",
+   "L13+L14+L27+L28"
+  ],
+  "PRASANNA S": [
+   "L7+L8+L29+L30",
+   "L41+L42+L57+L58"
+  ],
+  "MAREESWARI V": [
+   "L41+L42+L57+L58",
+   "L9+L10+L25+L26"
+  ],
+  "THANAPAL P": [
+   "L41+L42+L57+L58",
+   "L7+L8+L15+L16"
+  ],
+  "ALAGIRI I": [
+   "L23+L24+L25+L26",
+   "L47+L48+L57+L58"
+  ]
+ },
+ "BCSE103E": {
+  "COURSE TITLE": "Computer Programming: Java",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "TE1": 2,
+   "L45+L46+L55+L56": 2,
+   "TE2": 1,
+   "L7+L8+L15+L16": 2,
+   "TB1": 1,
+   "L47+L48+L57+L58": 1,
+   "TD2": 1,
+   "L7+L8+L21+L22": 1,
+   "TD1": 6,
+   "L43+L44+L57+L58": 2,
+   "TG1": 18,
+   "TA2": 1,
+   "TA1": 1,
+   "TG2": 16,
+   "L35+L36+L43+L44": 1,
+   "L31+L32+L39+L40": 1,
+   "L3+L4+L7+L8": 1,
+   "TC2": 5,
+   "L1+L2+L29+L30": 1,
+   "L31+L32+L57+L58": 2,
+   "L33+L34+L55+L56": 1,
+   "L3+L4+L25+L26": 1,
+   "L43+L44+L51+L52": 1,
+   "L13+L14+L21+L22": 2,
+   "L35+L36+L39+L40": 2,
+   "L15+L16+L23+L24": 1,
+   "L11+L12+L19+L20": 1,
+   "L37+L38+L43+L44": 2,
+   "L3+L4+L9+L10": 1,
+   "L31+L32+L51+L52": 1,
+   "L37+L38+L45+L46": 1,
+   "L5+L6+L9+L10": 1,
+   "L11+L12+L23+L24": 2,
+   "L37+L38+L55+L56": 1,
+   "L3+L4+L13+L14": 1,
+   "L33+L34+L47+L48": 1,
+   "L9+L10+L15+L16": 1,
+   "L41+L42+L51+L52": 1,
+   "L11+L12+L27+L28": 1,
+   "L37+L38+L53+L54": 1,
+   "L19+L20+L29+L30": 1,
+   "L49+L50+L59+L60": 1,
+   "L1+L2+L23+L24": 1,
+   "L9+L10+L27+L28": 1,
+   "L51+L52+L59+L60": 1,
+   "L19+L20+L25+L26": 1,
+   "L45+L46+L49+L50": 1,
+   "L9+L10+L29+L30": 1,
+   "L9+L10+L25+L26": 2,
+   "L37+L38+L49+L50": 1,
+   "L53+L54+L55+L56": 1,
+   "L31+L32+L49+L50": 1
+  },
+  "SAJITHA LULU S": [
+   "TE1",
+   "L45+L46+L55+L56",
+   "TE2",
+   "L7+L8+L15+L16",
+   "TB1",
+   "L47+L48+L57+L58"
+  ],
+  "ARNOLD EMERSON I": [
+   "TD2",
+   "L7+L8+L21+L22",
+   "TD1",
+   "L43+L44+L57+L58"
+  ],
+  "MONASH P": [
+   "TG1",
+   "L37+L38+L43+L44"
+  ],
+  "NAGAMALLESWARA RAO K": [
+   "TA2",
+   "L3+L4+L9+L10"
+  ],
+  "RIMA BISWAS": [
+   "TA1",
+   "L31+L32+L51+L52"
+  ],
+  "SASANKA BHUSHAN PULIPATI": [
+   "TG1",
+   "L35+L36+L43+L44"
+  ],
+  "VIGNESH RAJKUMAR L": [
+   "TG2",
+   "L5+L6+L9+L10"
+  ],
+  "JOHN SUSHIL PACKIARAJ": [
+   "TG1",
+   "TG2",
+   "L31+L32+L39+L40",
+   "L3+L4+L7+L8"
+  ],
+  "SIVAPRASAD DARLA": [
+   "TC2",
+   "L1+L2+L29+L30"
+  ],
+  "RAMESH BABU VEMULURI": [
+   "TD1",
+   "L31+L32+L57+L58"
+  ],
+  "BHARANIDARAN R": [
+   "TD1",
+   "L33+L34+L55+L56"
+  ],
+  "RAHUL SINGH SIKARWAR": [
+   "TC2",
+   "L3+L4+L25+L26"
+  ],
+  "DEEPAK KUMAR BISWAL": [
+   "TD1",
+   "L43+L44+L51+L52"
+  ],
+  "ANOJ GIRI": [
+   "TC2",
+   "L13+L14+L21+L22"
+  ],
+  "JAMBESWAR SAHU": [
+   "TD1",
+   "L35+L36+L39+L40"
+  ],
+  "ASHIRBAD SWAIN": [
+   "TC2",
+   "L15+L16+L23+L24"
+  ],
+  "KEYUR BHANUPRASAD JOSHI": [
+   "TD1",
+   "L37+L38+L45+L46"
+  ],
+  "SAMUKHAM SURYA": [
+   "TC2",
+   "L11+L12+L19+L20"
+  ],
+  "SASIKUMAR P": [
+   "TG1",
+   "TG2",
+   "L45+L46+L49+L50",
+   "L9+L10+L29+L30"
+  ],
+  "NAMITHA A S": [
+   "TG1",
+   "L31+L32+L57+L58"
+  ],
+  "VALARMATHI J": [
+   "TG2",
+   "L11+L12+L23+L24"
+  ],
+  "HARIHARAN I": [
+   "TG1",
+   "L35+L36+L39+L40"
+  ],
+  "SATHEESH KUMAR S": [
+   "TG1",
+   "L37+L38+L55+L56"
+  ],
+  "KARTHIKEYAN M": [
+   "TG2",
+   "L7+L8+L15+L16"
+  ],
+  "ANTONY XAVIER GLITTAS X": [
+   "TG2",
+   "L3+L4+L13+L14"
+  ],
+  "BISWAJIT DWIVEDY": [
+   "TG1",
+   "L33+L34+L47+L48"
+  ],
+  "DHARANI BAI G": [
+   "TG2",
+   "L9+L10+L15+L16"
+  ],
+  "SHANMUGASUNDARAM M": [
+   "TG2",
+   "L11+L12+L23+L24"
+  ],
+  "SIVACOUMAR R": [
+   "TG2",
+   "L11+L12+L27+L28"
+  ],
+  "KATHIRVELAN J": [
+   "TG1",
+   "L41+L42+L51+L52"
+  ],
+  "VENUGOPAL P": [
+   "TG1",
+   "L43+L44+L57+L58"
+  ],
+  "SUGANTHAN V": [
+   "TG1",
+   "L37+L38+L53+L54"
+  ],
+  "PRAYLINE RAJABAI C": [
+   "TG2",
+   "L19+L20+L29+L30"
+  ],
+  "PRAKASH R": [
+   "TG1",
+   "L49+L50+L59+L60"
+  ],
+  "SHWETA B THOMAS": [
+   "TG2",
+   "L1+L2+L23+L24"
+  ],
+  "MANIMARAN P": [
+   "TG2",
+   "L9+L10+L27+L28"
+  ],
+  "RAJKISHOR KUMAR": [
+   "TG1",
+   "L45+L46+L55+L56"
+  ],
+  "KARTHIKEYAN B": [
+   "TG1",
+   "L51+L52+L59+L60"
+  ],
+  "ARVIND KUMAR": [
+   "TG2",
+   "L19+L20+L25+L26"
+  ],
+  "RAMESH V": [
+   "TG1",
+   "L9+L10+L25+L26",
+   "TG2",
+   "L37+L38+L49+L50"
+  ],
+  "SRIHARI MANDAVA": [
+   "TG1",
+   "L53+L54+L55+L56",
+   "TG2",
+   "L13+L14+L21+L22"
+  ],
+  "MADDELA CHINNA OBAIAH": [
+   "TG1",
+   "TG2",
+   "L9+L10+L25+L26",
+   "L31+L32+L49+L50"
+  ],
+  "SITHARTHAN R": [
+   "TG1",
+   "L37+L38+L43+L44"
+  ]
+ },
+ "CBS1002": {
+  "COURSE TITLE": "Object Oriented Programming",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 2,
+   "A2+TA2": 2,
+   "A1+TA1": 1,
+   "L35+L36": 1,
+   "L13+L14": 1,
+   "L29+L30": 1,
+   "L45+L46": 1
+  },
+  "VIJAYA KUMAR K": [
+   "D1+TD1",
+   "L45+L46"
+  ],
+  "MOHAN K": [
+   "A2+TA2",
+   "L13+L14"
+  ],
+  "GOPINATH M.P": [
+   "A1+TA1",
+   "A2+TA2",
+   "L35+L36",
+   "L29+L30"
+  ]
+ },
+ "CBS1004": {
+  "COURSE TITLE": "Computer Architecture and Organization",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A1": 2,
+   "D2": 2,
+   "D1": 1,
+   "L37+L38": 1,
+   "L9+L10": 1,
+   "L33+L34": 1,
+   "L3+L4": 1
+  },
+  "SURESHKUMAR N": [
+   "A1",
+   "D2",
+   "L37+L38",
+   "L9+L10"
+  ],
+  "MOHANASUNDARAM R": [
+   "D1",
+   "L33+L34"
+  ],
+  "ANISHA M. LAL": [
+   "D2",
+   "L3+L4"
+  ]
+ },
+ "CBS1011": {
+  "COURSE TITLE": "Programming in Python",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 3,
+   "B2": 2,
+   "L51+L52": 1,
+   "L23+L24": 1,
+   "L47+L48": 1,
+   "L13+L14": 1
+  },
+  "MANJULA R": [
+   "B1",
+   "B2",
+   "L51+L52",
+   "L23+L24"
+  ],
+  "LAKSHMANAN K": [
+   "B2",
+   "L13+L14"
+  ],
+  "PRIYA G": [
+   "B1",
+   "L47+L48"
+  ]
+ },
+ "CIS5001": {
+  "COURSE TITLE": "Cryptosystems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C2": 2,
+   "L23+L24": 1
+  },
+  "SARAVANAN R": [
+   "C2",
+   "L23+L24"
+  ]
+ },
+ "CIS6001": {
+  "COURSE TITLE": "Cyber Attacks Detection and Prevention Systems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D2": 2,
+   "L19+L20": 1,
+   "NIL": 1
+  },
+  "AJU D": [
+   "D2",
+   "L19+L20",
+   "NIL"
+  ]
+ },
+ "CIS6004": {
+  "COURSE TITLE": "Wireless and Mobile Network Security",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2,
+   "NIL": 1
+  },
+  "MANIKANDAN K": [
+   "F2",
+   "NIL"
+  ]
+ },
+ "CIS6007": {
+  "COURSE TITLE": "Secure Software Systems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A2": 2,
+   "NIL": 1
+  },
+  "SUNIL KUMAR PV": [
+   "A2",
+   "NIL"
+  ]
+ },
+ "CIS6008": {
+  "COURSE TITLE": "Digital Forensics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B2": 2,
+   "L11+L12": 1,
+   "NIL": 1
+  },
+  "ARUN KUMAR S": [
+   "B2",
+   "L11+L12",
+   "NIL"
+  ]
+ },
+ "CSE1002": {
+  "COURSE TITLE": "Problem Solving and Object Oriented Programming",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "L43+L44+L49+L50+L57+L58": 2,
+   "L1+L2+L13+L14+L21+L22": 1,
+   "L35+L36+L37+L38+L45+L46": 1,
+   "L31+L32+L51+L52+L59+L60": 1,
+   "L1+L2+L21+L22+L27+L28": 1,
+   "L7+L8+L23+L24+L25+L26": 1,
+   "L5+L6+L13+L14+L21+L22": 1,
+   "L45+L46+L51+L52+L59+L60": 1,
+   "L31+L32+L39+L40+L51+L52": 1,
+   "L9+L10+L21+L22+L29+L30": 1,
+   "L35+L36+L41+L42+L53+L54": 1,
+   "L5+L6+L11+L12+L23+L24": 1,
+   "L33+L34+L41+L42+L51+L52": 1,
+   "L3+L4+L9+L10+L19+L20": 1,
+   "L33+L34+L41+L42+L47+L48": 1
+  },
+  "MUTHAMIL SELVAN T": [
+   "L43+L44+L49+L50+L57+L58",
+   "L1+L2+L13+L14+L21+L22"
+  ],
+  "SENTHILKUMAR N": [
+   "L35+L36+L37+L38+L45+L46",
+   "L5+L6+L13+L14+L21+L22"
+  ],
+  "VELLINGIRI J": [
+   "L31+L32+L51+L52+L59+L60",
+   "L7+L8+L23+L24+L25+L26"
+  ],
+  "MALATHY E": [
+   "L1+L2+L21+L22+L27+L28",
+   "L45+L46+L51+L52+L59+L60"
+  ],
+  "GLADYS GNANA KIRUBA B": [
+   "L31+L32+L39+L40+L51+L52"
+  ],
+  "JABANJALIN HILDA J": [
+   "L9+L10+L21+L22+L29+L30"
+  ],
+  "ANAND BIHARI": [
+   "L35+L36+L41+L42+L53+L54",
+   "L5+L6+L11+L12+L23+L24"
+  ],
+  "ARUP GHOSH": [
+   "L33+L34+L41+L42+L51+L52",
+   "L3+L4+L9+L10+L19+L20"
+  ],
+  "SENTHIL KUMAR K": [
+   "L33+L34+L41+L42+L47+L48"
+  ]
+ },
+ "CSE5002": {
+  "COURSE TITLE": "Operating Systems and Virtualization",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2,
+   "L25+L26": 1
+  },
+  "KALYANARAMAN P": [
+   "F2",
+   "L25+L26"
+  ]
+ },
+ "CSE5004": {
+  "COURSE TITLE": "Computer Networks",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E2": 2,
+   "L3+L4": 2,
+   "D2": 1
+  },
+  "ARUNKUMAR T": [
+   "E2",
+   "L3+L4"
+  ],
+  "SRIMATHI C": [
+   "D2",
+   "L3+L4"
+  ]
+ },
+ "CSE5007": {
+  "COURSE TITLE": "Exploratory Data Analysis",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F1": 2,
+   "NIL": 3,
+   "F2": 1,
+   "E1": 1
+  },
+  "RUSHI KUMAR B": [
+   "F1",
+   "NIL"
+  ],
+  "PALLAVI MISHRA": [
+   "F2",
+   "NIL",
+   "E1",
+   "NIL"
+  ]
+ },
+ "CSE5021": {
+  "COURSE TITLE": "Data Warehousing and Mining",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 2,
+   "L53+L54": 1
+  },
+  "RAMANATHAN L": [
+   "B1",
+   "L53+L54"
+  ]
+ },
+ "CSE6003": {
+  "COURSE TITLE": "Web Services",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A2": 2,
+   "L11+L12": 1
+  },
+  "NAVEEN KUMAR N": [
+   "A2",
+   "L11+L12"
+  ]
+ },
+ "CSE6005": {
+  "COURSE TITLE": "Machine Learning",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 2,
+   "L39+L40": 1,
+   "NIL": 2,
+   "B2": 1,
+   "L23+L24": 1
+  },
+  "JAISANKAR N": [
+   "B1",
+   "L39+L40",
+   "NIL"
+  ],
+  "BALAMURUGAN R": [
+   "B2",
+   "L23+L24",
+   "NIL"
+  ]
+ },
+ "CSE6006": {
+  "COURSE TITLE": "NoSQL Databases",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 2,
+   "L49+L50": 1,
+   "NIL": 2,
+   "C2": 1,
+   "L13+L14": 1
+  },
+  "ANBARASI M": [
+   "E1",
+   "L49+L50",
+   "NIL"
+  ],
+  "SATISH C.J": [
+   "C2",
+   "L13+L14",
+   "NIL"
+  ]
+ },
+ "CSE6012": {
+  "COURSE TITLE": "Image Processing and Analysis",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2,
+   "NIL": 1
+  },
+  "NATARAJAN P": [
+   "E2+TE2",
+   "NIL"
+  ]
+ },
+ "CSE6020": {
+  "COURSE TITLE": "Big Data Technologies",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D1": 2,
+   "L41+L42": 1,
+   "NIL": 1
+  },
+  "NAGARAJA RAO A": [
+   "D1",
+   "L41+L42",
+   "NIL"
+  ]
+ },
+ "CSE6021": {
+  "COURSE TITLE": "Domain Specific Predictive Analytics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 2,
+   "NIL": 1
+  },
+  "GUNAVATHI C": [
+   "A1+TA1",
+   "NIL"
+  ]
+ },
+ "CSE6022": {
+  "COURSE TITLE": "Soft Computing",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 2,
+   "NIL": 1
+  },
+  "SWATHI J.N": [
+   "C1+TC1",
+   "NIL"
+  ]
+ },
+ "CSE6024": {
+  "COURSE TITLE": "Machine Learning Techniques",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D1": 2,
+   "L33+L34": 1
+  },
+  "SASIKALA .R": [
+   "D1",
+   "L33+L34"
+  ]
+ },
+ "CSE6034": {
+  "COURSE TITLE": "Big Data Analytics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A1": 2,
+   "L49+L50": 1
+  },
+  "LAVANYA K": [
+   "A1",
+   "L49+L50"
+  ]
+ },
+ "CSE6037": {
+  "COURSE TITLE": "Deep Learning and its Applications",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 2,
+   "L47+L48": 1
+  },
+  "SHARMILA BANU K": [
+   "E1",
+   "L47+L48"
+  ]
+ },
+ "CSE6060": {
+  "COURSE TITLE": "Statistical Natural Language Processing",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2
+  },
+  "JAGALINGAM P": [
+   "F1+TF1"
+  ]
+ },
+ "CSE6065": {
+  "COURSE TITLE": "Pattern Recognition",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F2+TF2": 2
+  },
+  "TUSAR KANTI MISHRA": [
+   "F2+TF2"
+  ]
+ },
+ "CSI2001": {
+  "COURSE TITLE": "Digital logic and Computer Design",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 3,
+   "E2+TE2": 2,
+   "C1+TC1": 2,
+   "C2+TC2": 1,
+   "L37+L38": 2,
+   "L3+L4": 1,
+   "L29+L30": 1,
+   "L45+L46": 1,
+   "L7+L8": 1,
+   "L53+L54": 1
+  },
+  "LIJO V.P": [
+   "E1+TE1",
+   "L37+L38",
+   "E2+TE2",
+   "L3+L4"
+  ],
+  "JASMIN T. JOSE": [
+   "E1+TE1",
+   "E2+TE2",
+   "L37+L38",
+   "L29+L30"
+  ],
+  "PRAMOD KUMAR MAURYA": [
+   "C1+TC1",
+   "C2+TC2",
+   "L45+L46",
+   "L7+L8"
+  ],
+  "PRABAKARAN N": [
+   "C1+TC1",
+   "L53+L54"
+  ]
+ },
+ "CSI2002": {
+  "COURSE TITLE": "Data Structures and Algorithm Analysis",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 4,
+   "B1+TB1": 4,
+   "L45+L46": 1,
+   "L13+L14": 1,
+   "L31+L32": 1,
+   "L21+L22": 2,
+   "L43+L44": 1,
+   "L55+L56": 1
+  },
+  "SARAVANAN R": [
+   "B2+TB2",
+   "L45+L46",
+   "L13+L14",
+   "B1+TB1"
+  ],
+  "PARVEEN SULTANA H": [
+   "B2+TB2",
+   "L21+L22"
+  ],
+  "ANURADHA J": [
+   "B1+TB1",
+   "L31+L32"
+  ],
+  "SANTHI V": [
+   "B1+TB1",
+   "L43+L44",
+   "L21+L22",
+   "B2+TB2"
+  ],
+  "VASANTHA W B": [
+   "B1+TB1",
+   "L55+L56"
+  ]
+ },
+ "TCSE101L": {
+  "COURSE TITLE": "Computer Programming : C",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 2,
+   "E2": 1,
+   "G1": 1
+  },
+  "CHEMMALAR SELVI G": [
+   "E1",
+   "G1"
+  ],
+  "BENJULA ANBU MALAR M B": [
+   "E2"
+  ]
+ },
+ "TCSE101P": {
+  "COURSE TITLE": "Computer Programming : C Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L43+L44": 2,
+   "L13+L14": 1,
+   "L33+L34": 1
+  },
+  "CHEMMALAR SELVI G": [
+   "L43+L44",
+   "L33+L34"
+  ],
+  "BENJULA ANBU MALAR M B": [
+   "L13+L14"
+  ]
+ },
+ "TCSE104L": {
+  "COURSE TITLE": "Structured and Object Oriented Programming",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2
+  },
+  "ELANGO N M": [
+   "F2"
+  ]
+ },
+ "TCSE104P": {
+  "COURSE TITLE": "Structured and Object Oriented Programming Lab",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L11+L12+L21+L22": 2
+  },
+  "ELANGO N M": [
+   "L11+L12+L21+L22"
+  ]
+ },
+ "BEEE101L": {
+  "COURSE TITLE": "Basic Electrical Engineering",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A1": 10,
+   "A2": 9,
+   "C1": 5,
+   "C2": 5,
+   "G1": 11,
+   "G2": 11
+  },
+  "MEIKANDASIVAM S": [
+   "A1"
+  ],
+  "SARAVANAKUMAR R": [
+   "A2"
+  ],
+  "YEDDULA PEDDA OBULESU": [
+   "A1"
+  ],
+  "JAYABARATHI T": [
+   "A2"
+  ],
+  "SATHISHKUMAR K": [
+   "A1",
+   "A2"
+  ],
+  "CHITRA A": [
+   "A2"
+  ],
+  "MAGESHVARAN R": [
+   "C1",
+   "C2"
+  ],
+  "JAKEER HUSSAIN ": [
+   "C1",
+   "C2"
+  ],
+  "SATYAJIT DAS": [
+   "C2"
+  ],
+  "KISHORE BINGI": [
+   "C1",
+   "C2"
+  ],
+  "ARUNKUMAR G": [
+   "C1"
+  ],
+  "SATYAJIT MOHANTY": [
+   "C1",
+   "G1"
+  ],
+  "VENKATA RAMANA KASI": [
+   "C2",
+   "A1"
+  ],
+  "ANBARASAN P": [
+   "G1",
+   "G2"
+  ],
+  "KOWSALYA M": [
+   "G1"
+  ],
+  "RAJU J": [
+   "G1",
+   "G2"
+  ],
+  "SUBRAMANIAN K": [
+   "G1"
+  ],
+  "GEETHANJALI P": [
+   "G1"
+  ],
+  "SANKARDOSS V": [
+   "G1",
+   "G2"
+  ],
+  "GOKULAKRISHNAN G": [
+   "G1",
+   "G2"
+  ],
+  "THAMILMARAN A": [
+   "G2"
+  ],
+  "JOSHUA SUNDER DAVID REDDIPOGU": [
+   "G1",
+   "G2"
+  ],
+  "CHILUKURI VENKATA MAHENDRA": [
+   "G1",
+   "G2"
+  ],
+  "BRISILLA R M": [
+   "G1",
+   "G2"
+  ],
+  "ARUN S L": [
+   "G2"
+  ],
+  "RAVI K": [
+   "G2"
+  ],
+  "PRABHAKAR KARTHIKEYAN S": [
+   "A1"
+  ],
+  "RASHMI RANJAN DAS": [
+   "A1"
+  ],
+  "BELWIN EDWARD J": [
+   "A2"
+  ],
+  "UMA SATHYAKAM P": [
+   "A2"
+  ],
+  "RAGHUNATHAN T": [
+   "A1"
+  ],
+  "RAJA SINGH R": [
+   "A1"
+  ],
+  "B RAJANARAYAN PRUSTY": [
+   "A2"
+  ],
+  "VENKATESH S": [
+   "A2"
+  ],
+  "PONNAMBALAM P": [
+   "G2"
+  ],
+  "SONAM SHRIVASTAVA": [
+   "A2"
+  ],
+  "SUPRAVA CHAKRABORTY": [
+   "A1"
+  ]
+ },
+ "BEEE101P": {
+  "COURSE TITLE": "Basic Electrical Engineering Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L43+L44": 6,
+   "L57+L58": 8,
+   "L13+L14": 2,
+   "L29+L30": 4,
+   "L37+L38": 4,
+   "L45+L46": 3,
+   "L15+L16": 8,
+   "L31+L32": 6,
+   "L49+L50": 5,
+   "L55+L56": 7,
+   "L23+L24": 8,
+   "L9+L10": 3,
+   "L5+L6": 2,
+   "L27+L28": 8,
+   "L39+L40": 4,
+   "L11+L12": 5,
+   "L3+L4": 5,
+   "L51+L52": 6,
+   "L21+L22": 4,
+   "L33+L34": 2,
+   "L25+L26": 1
+  },
+  "ANBARASAN P": [
+   "L43+L44",
+   "L57+L58",
+   "L13+L14",
+   "L29+L30"
+  ],
+  "KOWSALYA M": [
+   "L37+L38",
+   "L57+L58"
+  ],
+  "RAJU J": [
+   "L45+L46",
+   "L57+L58",
+   "L15+L16",
+   "L29+L30"
+  ],
+  "SUBRAMANIAN K": [
+   "L31+L32",
+   "L49+L50"
+  ],
+  "GEETHANJALI P": [
+   "L43+L44",
+   "L57+L58"
+  ],
+  "SANKARDOSS V": [
+   "L43+L44",
+   "L55+L56",
+   "L23+L24",
+   "L29+L30"
+  ],
+  "GOKULAKRISHNAN G": [
+   "L45+L46",
+   "L55+L56",
+   "L15+L16",
+   "L29+L30"
+  ],
+  "THAMILMARAN A": [
+   "L9+L10",
+   "L5+L6"
+  ],
+  "JOSHUA SUNDER DAVID REDDIPOGU": [
+   "L49+L50",
+   "L57+L58",
+   "L23+L24",
+   "L27+L28"
+  ],
+  "CHILUKURI VENKATA MAHENDRA": [
+   "L49+L50",
+   "L57+L58",
+   "L23+L24",
+   "L27+L28"
+  ],
+  "BRISILLA R M": [
+   "L39+L40",
+   "L57+L58",
+   "L15+L16",
+   "L27+L28"
+  ],
+  "ARUN S L": [
+   "L11+L12",
+   "L23+L24"
+  ],
+  "SATYAJIT MOHANTY": [
+   "L31+L32",
+   "L55+L56",
+   "L39+L40",
+   "L51+L52"
+  ],
+  "SUPRAVA CHAKRABORTY": [
+   "L43+L44",
+   "L55+L56"
+  ],
+  "JAYABARATHI T": [
+   "L11+L12",
+   "L15+L16"
+  ],
+  "SARAVANAKUMAR R": [
+   "L3+L4",
+   "L15+L16"
+  ],
+  "SATHISHKUMAR K": [
+   "L39+L40",
+   "L55+L56",
+   "L11+L12",
+   "L27+L28"
+  ],
+  "CHITRA A": [
+   "L15+L16",
+   "L27+L28"
+  ],
+  "MEIKANDASIVAM S": [
+   "L43+L44",
+   "L57+L58"
+  ],
+  "YEDDULA PEDDA OBULESU": [
+   "L39+L40",
+   "L55+L56"
+  ],
+  "MAGESHVARAN R": [
+   "L3+L4",
+   "L23+L24",
+   "L31+L32",
+   "L51+L52"
+  ],
+  "KISHORE BINGI": [
+   "L31+L32",
+   "L51+L52",
+   "L9+L10",
+   "L21+L22"
+  ],
+  "JAKEER HUSSAIN ": [
+   "L33+L34",
+   "L49+L50",
+   "L21+L22",
+   "L11+L12"
+  ],
+  "VENKATA RAMANA KASI": [
+   "L3+L4",
+   "L21+L22",
+   "L45+L46",
+   "L31+L32"
+  ],
+  "PRABHAKAR KARTHIKEYAN S": [
+   "L37+L38",
+   "L51+L52"
+  ],
+  "RASHMI RANJAN DAS": [
+   "L37+L38",
+   "L51+L52"
+  ],
+  "BELWIN EDWARD J": [
+   "L23+L24",
+   "L27+L28"
+  ],
+  "RAGHUNATHAN T": [
+   "L37+L38",
+   "L55+L56"
+  ],
+  "UMA SATHYAKAM P": [
+   "L3+L4",
+   "L15+L16"
+  ],
+  "RAJA SINGH R": [
+   "L31+L32",
+   "L49+L50"
+  ],
+  "B RAJANARAYAN PRUSTY": [
+   "L15+L16",
+   "L27+L28"
+  ],
+  "RAVI K": [
+   "L3+L4",
+   "L27+L28"
+  ],
+  "VENKATESH S": [
+   "L13+L14",
+   "L23+L24"
+  ],
+  "ARUNKUMAR G": [
+   "L33+L34",
+   "L51+L52"
+  ],
+  "SATYAJIT DAS": [
+   "L5+L6",
+   "L21+L22"
+  ],
+  "PONNAMBALAM P": [
+   "L11+L12",
+   "L23+L24"
+  ],
+  "SONAM SHRIVASTAVA": [
+   "L9+L10",
+   "L25+L26"
+  ]
+ },
+ "BEEE202L": {
+  "COURSE TITLE": "Electromagnetic Theory",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 5,
+   "D2+TD2": 3
+  },
+  "MATHEW M. NOEL": [
+   "D1+TD1"
+  ],
+  "INDRAGANDHI V": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "VENKATARAMAN M.N": [
+   "D1+TD1"
+  ],
+  "HIMADRI LALA": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "SIVABALAN S": [
+   "D2+TD2"
+  ]
+ },
+ "EEE5006": {
+  "COURSE TITLE": "Integrated Circuits for Power Conversion",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A2": 2,
+   "L29+L30": 1
+  },
+  "ARUNKUMAR G": [
+   "A2",
+   "L29+L30"
+  ]
+ },
+ "EEE5007": {
+  "COURSE TITLE": "Intelligent Control",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D2+TD2": 2
+  },
+  "SIREESHA TAMADA": [
+   "D2+TD2"
+  ]
+ },
+ "EEE5016": {
+  "COURSE TITLE": "Real Time Embedded Systems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 2,
+   "NIL": 1
+  },
+  "SELVAKUMAR K": [
+   "B1",
+   "NIL"
+  ]
+ },
+ "EEE5017": {
+  "COURSE TITLE": "Industrial Automation",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D1": 2,
+   "L49+L50": 1
+  },
+  "GEETHA M": [
+   "D1",
+   "L49+L50"
+  ]
+ },
+ "EEE5018": {
+  "COURSE TITLE": "Industrial Robotics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F2+TF2": 2
+  },
+  "VINODH KUMAR E": [
+   "F2+TF2"
+  ]
+ },
+ "EEE5020": {
+  "COURSE TITLE": "Machine Learning",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 2,
+   "NIL": 1
+  },
+  "MONICA SUBASHINI M": [
+   "E1",
+   "NIL"
+  ]
+ },
+ "EEE5031": {
+  "COURSE TITLE": "Advanced Reliability Engineering",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F1+V1": 2
+  },
+  "JANAKI M": [
+   "F1+V1"
+  ]
+ },
+ "EEE5704": {
+  "COURSE TITLE": "Switched Mode Power Supplies",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 2
+  },
+  "ELANGOVAN D": [
+   "B1"
+  ]
+ },
+ "EEE6001": {
+  "COURSE TITLE": "Power Electronics Applications in Power Systems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D2": 2,
+   "NIL": 1
+  },
+  "KOWSALYA M": [
+   "D2",
+   "NIL"
+  ]
+ },
+ "EEE6005": {
+  "COURSE TITLE": "Electric and Hybrid Electric Vehicles",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B2": 2,
+   "NIL": 1
+  },
+  "YEDDULA PEDDA OBULESU": [
+   "B2",
+   "NIL"
+  ]
+ },
+ "EEE6008": {
+  "COURSE TITLE": "Solar Photo Voltaic Systems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2,
+   "NIL": 1
+  },
+  "RAJASEKAR N": [
+   "F2",
+   "NIL"
+  ]
+ },
+ "EEE6009": {
+  "COURSE TITLE": "Special Machines and Control",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C2": 2,
+   "NIL": 1
+  },
+  "ARUN N": [
+   "C2",
+   "NIL"
+  ]
+ },
+ "EEE6010": {
+  "COURSE TITLE": "Industrial Electrical Drives",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E2": 2,
+   "L25+L26": 1
+  },
+  "RAJA SINGH R": [
+   "E2",
+   "L25+L26"
+  ]
+ },
+ "EEE6011": {
+  "COURSE TITLE": "Optimal Control Systems",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 2
+  },
+  "BAGYAVEERESWARAN V": [
+   "C1+TC1"
+  ]
+ },
+ "EEE6012": {
+  "COURSE TITLE": "Adaptive and Robust Control",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A1": 2,
+   "NIL": 1
+  },
+  "JAGANATHA PANDIAN B": [
+   "A1",
+   "NIL"
+  ]
+ },
+ "EEE6013": {
+  "COURSE TITLE": "Discrete Control Systems",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F2+TF2": 2
+  },
+  "MEDARAMETLA PRAVEENKUMAR": [
+   "F2+TF2"
+  ]
+ },
+ "BECE101L": {
+  "COURSE TITLE": "Basic Electronics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 11,
+   "E2": 10,
+   "G1": 12,
+   "G2": 11,
+   "B1": 9,
+   "D2": 10,
+   "A1": 2,
+   "A2": 2,
+   "D1": 3
+  },
+  "SURESH KUMAR T R": [
+   "E1"
+  ],
+  "ABHIJIT BHOWMICK": [
+   "E2"
+  ],
+  "GAUTAM NARAYAN": [
+   "E1"
+  ],
+  "ABRAHAM SAMPSON S": [
+   "E2"
+  ],
+  "LAVANYA N": [
+   "E1"
+  ],
+  "MANISH KUMAR": [
+   "E2"
+  ],
+  "S. SUNDAR": [
+   "E1"
+  ],
+  "SANGEETHA S": [
+   "E2"
+  ],
+  "AVINASH CHANDRA": [
+   "E1"
+  ],
+  "NAMITHA A S": [
+   "E2"
+  ],
+  "HARIHARAN I": [
+   "E1"
+  ],
+  "SHWETA B THOMAS": [
+   "E2"
+  ],
+  "RAJAN KUMAR PANDEY": [
+   "E1"
+  ],
+  "SUDHAKAR M S": [
+   "E2"
+  ],
+  "SANJAY R": [
+   "E1"
+  ],
+  "REVATHI S": [
+   "E2"
+  ],
+  "RAJKISHOR KUMAR": [
+   "E1"
+  ],
+  "BUDHADITYA BHATTACHARYYA": [
+   "E2"
+  ],
+  "NANDAKUMAR S": [
+   "E1"
+  ],
+  "SATHYA P": [
+   "E2"
+  ],
+  "HEMPRASAD YASHWANT PATIL": [
+   "G1"
+  ],
+  "PREETHA K.S": [
+   "G2"
+  ],
+  "SATHYANARAYANAN P": [
+   "G1",
+   "G2"
+  ],
+  "VIDHYAPATHI C.M": [
+   "G2"
+  ],
+  "ANITHA  R": [
+   "G1",
+   "G2"
+  ],
+  "SRINIVASA RAO INABATHINI": [
+   "G2"
+  ],
+  "AARTHI G": [
+   "G1"
+  ],
+  "ASHISH P": [
+   "G1"
+  ],
+  "ABDUL MAJEED K K": [
+   "G2"
+  ],
+  "AARTHY M": [
+   "G1"
+  ],
+  "DEEPIKA RANI SONA": [
+   "G2"
+  ],
+  "KALAPRAVEEN BAGADI": [
+   "G1"
+  ],
+  "CHRISTINA JOSEPHINE MALATHI A": [
+   "G2"
+  ],
+  "YOGESH KUMAR CHOUKIKER": [
+   "G1"
+  ],
+  "KALAIVANI S": [
+   "G2"
+  ],
+  "MYTHILI A": [
+   "G1"
+  ],
+  "USHA RANI S": [
+   "G2"
+  ],
+  "NITHISH  KUMAR V": [
+   "G1"
+  ],
+  "DEBASHIS MAJI": [
+   "G2"
+  ],
+  "RAVI KUMAR C V": [
+   "B1"
+  ],
+  "SANGEETHA N": [
+   "D2"
+  ],
+  "ILAVARASAN T": [
+   "B1",
+   "D2"
+  ],
+  "ARUNACHALAM V": [
+   "B1"
+  ],
+  "POONGUNDRAN SELVAPRABHU": [
+   "D2"
+  ],
+  "VELMURUGAN T": [
+   "B1"
+  ],
+  "VIJAY KUMAR": [
+   "D2"
+  ],
+  "SAKTHIVEL R": [
+   "B1"
+  ],
+  "RAJESHKUMAR V": [
+   "D2"
+  ],
+  "VINOTH BABU K": [
+   "B1"
+  ],
+  "SHANKAR T": [
+   "D2"
+  ],
+  "NOOR MOHAMMED V": [
+   "B1"
+  ],
+  "KAVITHA K.V.N.": [
+   "D2"
+  ],
+  "SIVACOUMAR R": [
+   "B1"
+  ],
+  "MALAYA KUMAR HOTA": [
+   "D2"
+  ],
+  "CHRISTOPHER CLEMENT J": [
+   "B1"
+  ],
+  "DEBASHISH DASH": [
+   "G1"
+  ],
+  "SANJAY  KUMAR SINGH": [
+   "G1"
+  ],
+  "JEEVA J.B": [
+   "A1"
+  ],
+  "ARUNKUMAR CHANDRASEKHAR": [
+   "A2"
+  ],
+  "RAJEEV PANKAJ NELAPATI": [
+   "A1"
+  ],
+  "SUMATHI G": [
+   "A2"
+  ],
+  "RAVI S": [
+   "D1"
+  ],
+  "ARUN DEV DHAR DWIVEDI": [
+   "D1"
+  ],
+  "DHANABAL R": [
+   "D2"
+  ],
+  "BHASKAR MOHAN MURARI": [
+   "D1"
+  ],
+  "RAJALAKSHMI S": [
+   "D2"
+  ]
+ },
+ "BECE101P": {
+  "COURSE TITLE": "Basic Electronics Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L37+L38": 5,
+   "L57+L58": 5,
+   "L19+L20": 4,
+   "L11+L12": 6,
+   "L39+L40": 5,
+   "L43+L44": 5,
+   "L1+L2": 5,
+   "L25+L26": 5,
+   "L31+L32": 5,
+   "L55+L56": 5,
+   "L5+L6": 6,
+   "L15+L16": 5,
+   "L41+L42": 5,
+   "L27+L28": 5,
+   "L45+L46": 6,
+   "L29+L30": 5,
+   "L47+L48": 5,
+   "L13+L14": 5,
+   "L59+L60": 4,
+   "L3+L4": 5,
+   "L23+L24": 4,
+   "L53+L54": 5,
+   "L7+L8": 4,
+   "L21+L22": 4,
+   "L9+L10": 3,
+   "L35+L36": 5,
+   "L49+L50": 3,
+   "L33+L34": 5,
+   "L51+L52": 5
+  },
+  "RAVI S": [
+   "L37+L38",
+   "L57+L58"
+  ],
+  "RAJALAKSHMI S": [
+   "L19+L20",
+   "L11+L12"
+  ],
+  "ARUN DEV DHAR DWIVEDI": [
+   "L39+L40",
+   "L43+L44"
+  ],
+  "DHANABAL R": [
+   "L1+L2",
+   "L25+L26"
+  ],
+  "BHASKAR MOHAN MURARI": [
+   "L31+L32",
+   "L55+L56"
+  ],
+  "JEEVA J.B": [
+   "L39+L40",
+   "L57+L58"
+  ],
+  "ARUNKUMAR CHANDRASEKHAR": [
+   "L5+L6",
+   "L15+L16"
+  ],
+  "RAJEEV PANKAJ NELAPATI": [
+   "L41+L42",
+   "L57+L58"
+  ],
+  "SUMATHI G": [
+   "L11+L12",
+   "L27+L28"
+  ],
+  "DEBASHISH DASH": [
+   "L45+L46",
+   "L31+L32"
+  ],
+  "SATHYANARAYANAN P": [
+   "L11+L12",
+   "L29+L30",
+   "L33+L34",
+   "L59+L60"
+  ],
+  "SANJAY  KUMAR SINGH": [
+   "L43+L44",
+   "L55+L56"
+  ],
+  "SURESH KUMAR T R": [
+   "L47+L48",
+   "L55+L56"
+  ],
+  "ABHIJIT BHOWMICK": [
+   "L5+L6",
+   "L13+L14"
+  ],
+  "GAUTAM NARAYAN": [
+   "L43+L44",
+   "L59+L60"
+  ],
+  "ABRAHAM SAMPSON S": [
+   "L5+L6",
+   "L19+L20"
+  ],
+  "LAVANYA N": [
+   "L31+L32",
+   "L47+L48"
+  ],
+  "MANISH KUMAR": [
+   "L11+L12",
+   "L25+L26"
+  ],
+  "S. SUNDAR": [
+   "L45+L46",
+   "L31+L32"
+  ],
+  "SANGEETHA S": [
+   "L3+L4",
+   "L23+L24"
+  ],
+  "AVINASH CHANDRA": [
+   "L47+L48",
+   "L53+L54"
+  ],
+  "NAMITHA A S": [
+   "L7+L8",
+   "L21+L22"
+  ],
+  "HARIHARAN I": [
+   "L45+L46",
+   "L53+L54"
+  ],
+  "SHWETA B THOMAS": [
+   "L15+L16",
+   "L27+L28"
+  ],
+  "RAJAN KUMAR PANDEY": [
+   "L45+L46",
+   "L53+L54"
+  ],
+  "SUDHAKAR M S": [
+   "L21+L22",
+   "L5+L6"
+  ],
+  "SANJAY R": [
+   "L41+L42",
+   "L59+L60"
+  ],
+  "REVATHI S": [
+   "L21+L22",
+   "L9+L10"
+  ],
+  "RAJKISHOR KUMAR": [
+   "L39+L40",
+   "L53+L54"
+  ],
+  "BUDHADITYA BHATTACHARYYA": [
+   "L5+L6",
+   "L15+L16"
+  ],
+  "NANDAKUMAR S": [
+   "L35+L36",
+   "L45+L46"
+  ],
+  "SATHYA P": [
+   "L23+L24",
+   "L25+L26"
+  ],
+  "HEMPRASAD YASHWANT PATIL": [
+   "L41+L42",
+   "L49+L50"
+  ],
+  "ABDUL MAJEED K K": [
+   "L1+L2",
+   "L13+L14"
+  ],
+  "VIDHYAPATHI C.M": [
+   "L7+L8",
+   "L13+L14"
+  ],
+  "ANITHA  R": [
+   "L33+L34",
+   "L45+L46",
+   "L11+L12",
+   "L23+L24"
+  ],
+  "SRINIVASA RAO INABATHINI": [
+   "L13+L14",
+   "L29+L30"
+  ],
+  "AARTHI G": [
+   "L39+L40",
+   "L59+L60"
+  ],
+  "DEBASHIS MAJI": [
+   "L3+L4",
+   "L19+L20"
+  ],
+  "ASHISH P": [
+   "L33+L34",
+   "L37+L38"
+  ],
+  "PREETHA K.S": [
+   "L1+L2",
+   "L27+L28"
+  ],
+  "AARTHY M": [
+   "L33+L34",
+   "L41+L42"
+  ],
+  "DEEPIKA RANI SONA": [
+   "L3+L4",
+   "L29+L30"
+  ],
+  "KALAPRAVEEN BAGADI": [
+   "L35+L36",
+   "L51+L52"
+  ],
+  "CHRISTINA JOSEPHINE MALATHI A": [
+   "L15+L16",
+   "L25+L26"
+  ],
+  "YOGESH KUMAR CHOUKIKER": [
+   "L47+L48",
+   "L49+L50"
+  ],
+  "KALAIVANI S": [
+   "L1+L2",
+   "L11+L12"
+  ],
+  "MYTHILI A": [
+   "L39+L40",
+   "L55+L56"
+  ],
+  "NITHISH  KUMAR V": [
+   "L47+L48",
+   "L57+L58"
+  ],
+  "USHA RANI S": [
+   "L5+L6",
+   "L21+L22"
+  ],
+  "RAVI KUMAR C V": [
+   "L37+L38",
+   "L55+L56"
+  ],
+  "SANGEETHA N": [
+   "L3+L4",
+   "L19+L20"
+  ],
+  "ILAVARASAN T": [
+   "L3+L4",
+   "L9+L10",
+   "L51+L52",
+   "L57+L58"
+  ],
+  "ARUNACHALAM V": [
+   "L37+L38",
+   "L49+L50"
+  ],
+  "POONGUNDRAN SELVAPRABHU": [
+   "L7+L8",
+   "L29+L30"
+  ],
+  "VIJAY KUMAR": [
+   "L13+L14",
+   "L27+L28"
+  ],
+  "RAJESHKUMAR V": [
+   "L23+L24",
+   "L29+L30"
+  ],
+  "VELMURUGAN T": [
+   "L31+L32",
+   "L51+L52"
+  ],
+  "SHANKAR T": [
+   "L7+L8",
+   "L15+L16"
+  ],
+  "KAVITHA K.V.N.": [
+   "L9+L10",
+   "L25+L26"
+  ],
+  "SIVACOUMAR R": [
+   "L41+L42",
+   "L51+L52"
+  ],
+  "SAKTHIVEL R": [
+   "L35+L36",
+   "L51+L52"
+  ],
+  "CHRISTOPHER CLEMENT J": [
+   "L35+L36",
+   "L43+L44"
+  ],
+  "MALAYA KUMAR HOTA": [
+   "L1+L2",
+   "L27+L28"
+  ],
+  "NOOR MOHAMMED V": [
+   "L35+L36",
+   "L43+L44"
+  ],
+  "VINOTH BABU K": [
+   "L33+L34",
+   "L53+L54"
+  ]
+ },
+ "BECE201L": {
+  "COURSE TITLE": "Electronic Materials and Devices",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 7,
+   "B2+TB2": 6,
+   "C1+TC1": 5,
+   "C2+TC2": 4
+  },
+  "GOVARDHAN K": [
+   "B1+TB1",
+   "C1+TC1"
+  ],
+  "ARUN DEV DHAR DWIVEDI": [
+   "B2+TB2",
+   "C1+TC1"
+  ],
+  "MUTHU RAJA S": [
+   "B1+TB1",
+   "B2+TB2"
+  ],
+  "VELMURUGAN V": [
+   "B2+TB2"
+  ],
+  "SANGEETHA A": [
+   "B1+TB1"
+  ],
+  "KANNADASSAN D": [
+   "B2+TB2"
+  ],
+  "PALLA PENCHALAIAH": [
+   "B1+TB1",
+   "C2+TC2"
+  ],
+  "DEBASHISH DASH": [
+   "B2+TB2"
+  ],
+  "RAJAN KUMAR PANDEY": [
+   "B1+TB1"
+  ],
+  "BOOPALAN G": [
+   "B2+TB2"
+  ],
+  "SAURABH NAGAR": [
+   "B1+TB1",
+   "C2+TC2"
+  ],
+  "NAVEEN MISHRA": [
+   "C1+TC1",
+   "C2+TC2"
+  ],
+  "KITTUR HARISH MALLIKARJUN": [
+   "C2+TC2"
+  ],
+  "ANAND S": [
+   "C1+TC1"
+  ],
+  "PRADHEEP T": [
+   "C1+TC1"
+  ]
+ },
+ "ECE5005": {
+  "COURSE TITLE": "Advances in Wireless Networks",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B2": 2,
+   "L5+L6": 1,
+   "NIL": 1
+  },
+  "MANIMARAN P": [
+   "B2",
+   "L5+L6",
+   "NIL"
+  ]
+ },
+ "ECE5006": {
+  "COURSE TITLE": "Flexible and Wearable Sensors",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D2+TD2": 2
+  },
+  "ELIZABETH RUFUS": [
+   "D2+TD2"
+  ]
+ },
+ "ECE5013": {
+  "COURSE TITLE": "Fiber Optic Communication and Networks",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A2": 2,
+   "L3+L4": 1
+  },
+  "REVATHI S": [
+   "A2",
+   "L3+L4"
+  ]
+ },
+ "ECE5014": {
+  "COURSE TITLE": "ASIC Design",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A2+TA2": 2,
+   "A1+TA1": 1,
+   "L3+L4": 1,
+   "L13+L14": 1,
+   "L31+L32": 1,
+   "L51+L52": 1
+  },
+  "JAGANNADHA NAIDU K": [
+   "A2+TA2",
+   "L3+L4",
+   "L13+L14"
+  ],
+  "NITHISH  KUMAR V": [
+   "A1+TA1",
+   "L31+L32",
+   "L51+L52"
+  ]
+ },
+ "ECE5016": {
+  "COURSE TITLE": "Analog IC Design",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C2+TC2": 2,
+   "C1+TC1": 1,
+   "L9+L10": 1,
+   "L21+L22": 1,
+   "L33+L34": 1,
+   "L45+L46": 1
+  },
+  "KUMARAVEL S": [
+   "C2+TC2",
+   "L9+L10",
+   "L21+L22"
+  ],
+  "SANJAY R": [
+   "C1+TC1",
+   "L33+L34",
+   "L45+L46"
+  ]
+ },
+ "ECE5023": {
+  "COURSE TITLE": "Memory Design and Testing",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2,
+   "E1+TE1": 1
+  },
+  "RAMAKRISHNAN V.N": [
+   "E2+TE2"
+  ],
+  "KITTUR HARISH MALLIKARJUN": [
+   "E1+TE1"
+  ]
+ },
+ "ECE5029": {
+  "COURSE TITLE": "VLSI Testing and Testability",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F2+TF2": 2,
+   "F1+TF1": 1
+  },
+  "SAKTHIVEL R": [
+   "F2+TF2"
+  ],
+  "SIVANANTHAM S": [
+   "F1+TF1"
+  ]
+ },
+ "ECE5037": {
+  "COURSE TITLE": "Nanosensors",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D2+TD2": 2
+  },
+  "SWATI G": [
+   "D2+TD2"
+  ]
+ },
+ "ECE5038": {
+  "COURSE TITLE": "Carbon Nanomaterials",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C2+TC2": 2
+  },
+  "MANGAIYARKARASI R": [
+   "C2+TC2"
+  ]
+ },
+ "ECE5039": {
+  "COURSE TITLE": "Lithographic Techniques for Device Fabrication",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F2+TF2": 2
+  },
+  "GEORGE JACOB": [
+   "F2+TF2"
+  ]
+ },
+ "ECE5048": {
+  "COURSE TITLE": "Embedded Systems and IoT for Biomedical Applications",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2,
+   "NIL": 1
+  },
+  "SASIKUMAR K": [
+   "E1+TE1",
+   "NIL"
+  ]
+ },
+ "ECE5049": {
+  "COURSE TITLE": "MEMS and NEMS for Biomedical Applications",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A1": 2,
+   "L55+L56": 1
+  },
+  "MUTHU RAJA S": [
+   "A1",
+   "L55+L56"
+  ]
+ },
+ "ECE5052": {
+  "COURSE TITLE": "Medical Image Processing",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B1": 2,
+   "L31+L32": 1,
+   "NIL": 1
+  },
+  "JEEVA J.B": [
+   "B1",
+   "L31+L32",
+   "NIL"
+  ]
+ },
+ "ECE5053": {
+  "COURSE TITLE": "Electronic Hardware System Design",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D1": 2,
+   "L33+L34": 1,
+   "NIL": 2,
+   "L45+L46": 1
+  },
+  "VIDHYAPATHI C.M": [
+   "D1",
+   "L33+L34",
+   "NIL",
+   "L45+L46",
+   "NIL"
+  ]
+ },
+ "ECE5054": {
+  "COURSE TITLE": "Real Time Operating System",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 2,
+   "L43+L44": 1,
+   "L55+L56": 1
+  },
+  "SHANMUGASUNDARAM M": [
+   "B1+TB1",
+   "L43+L44",
+   "L55+L56"
+  ]
+ },
+ "ECE5065": {
+  "COURSE TITLE": "Microcontrollers for Internet of Things Prototyping",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E2": 2,
+   "L15+L16": 1
+  },
+  "PRAKASH R": [
+   "E2",
+   "L15+L16"
+  ]
+ },
+ "ECE5074": {
+  "COURSE TITLE": "Automotive Networking and Protocols",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 2,
+   "L33+L34": 1
+  },
+  "GERARDINE IMMACULATE MARY": [
+   "D1+TD1",
+   "L33+L34"
+  ]
+ },
+ "ECE6001": {
+  "COURSE TITLE": "Wireless Sensor Networks and IoT",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2,
+   "NIL": 1
+  },
+  "SIVACOUMAR R": [
+   "F2",
+   "NIL"
+  ]
+ },
+ "ECE6003": {
+  "COURSE TITLE": "Micro Systems and Hybrid Technology",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C2": 2,
+   "L3+L4": 1
+  },
+  "ZACHARIAH C ALEX": [
+   "C2",
+   "L3+L4"
+  ]
+ },
+ "ECE6012": {
+  "COURSE TITLE": "Modern Wireless Communication Systems",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C2+TC2": 2,
+   "NIL": 1
+  },
+  "VINOTH BABU K": [
+   "C2+TC2",
+   "NIL"
+  ]
+ },
+ "ECE6014": {
+  "COURSE TITLE": "Modern Satellite Communication",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "HARIHARAN  S": [
+   "E2+TE2"
+  ]
+ },
+ "ECE6016": {
+  "COURSE TITLE": "Advanced Wireless Sensor Networks",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D2": 2,
+   "L9+L10": 1
+  },
+  "RENUGA DEVI S": [
+   "D2",
+   "L9+L10"
+  ]
+ },
+ "ECE6017": {
+  "COURSE TITLE": "RF and Microwave Circuit Design",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2,
+   "L27+L28": 1,
+   "NIL": 1
+  },
+  "BOOPALAN G": [
+   "F2",
+   "L27+L28",
+   "NIL"
+  ]
+ },
+ "ECE6024": {
+  "COURSE TITLE": "VLSI Verification Methodologies",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D2": 2,
+   "NIL": 2,
+   "D1": 1
+  },
+  "PRAYLINE RAJABAI C": [
+   "D2",
+   "NIL"
+  ],
+  "JAYAKRISHNAN P": [
+   "D1",
+   "NIL"
+  ]
+ },
+ "ECE6025": {
+  "COURSE TITLE": "Low Power IC Design",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B2": 2,
+   "NIL": 2,
+   "B1": 1
+  },
+  "RAJEEV PANKAJ NELAPATI": [
+   "B2",
+   "NIL"
+  ],
+  "SRI ADIBHATLA SRIDEVI": [
+   "B1",
+   "NIL"
+  ]
+ },
+ "ECE6030": {
+  "COURSE TITLE": "Signal Processing and Data Analytics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B2": 2,
+   "L21+L22": 1
+  },
+  "DHARANI BAI G": [
+   "B2",
+   "L21+L22"
+  ]
+ },
+ "ECE6031": {
+  "COURSE TITLE": "Nanomagnetism\u2010Fundamentals and Applications",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2
+  },
+  "NIROJ KUMAR SAHU": [
+   "E2+TE2"
+  ]
+ },
+ "ECE6032": {
+  "COURSE TITLE": "Nanoelectronics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A2": 2,
+   "L11+L12": 1,
+   "NIL": 1
+  },
+  "ASHUTOSH MAHAJAN": [
+   "A2",
+   "L11+L12",
+   "NIL"
+  ]
+ },
+ "ECE6033": {
+  "COURSE TITLE": "Nanophotonics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 2
+  },
+  "RAJA SELLAPPAN": [
+   "B2+TB2"
+  ]
+ },
+ "ECE6034": {
+  "COURSE TITLE": "Energy Technologies",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 2
+  },
+  "NIRMALA GRACE A": [
+   "C1+TC1"
+  ]
+ },
+ "ECE6040": {
+  "COURSE TITLE": "Biomedical Equipment",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 2
+  },
+  "VIDHYA S": [
+   "D1+TD1"
+  ]
+ },
+ "ECE6042": {
+  "COURSE TITLE": "Wireless and Mobile Communication",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2
+  },
+  "KARTHIKEYAN A": [
+   "E1+TE1"
+  ]
+ },
+ "ECE6049": {
+  "COURSE TITLE": "Modern Automotive Electronics Systems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C1": 2,
+   "NIL": 1
+  },
+  "VENUGOPAL P": [
+   "C1",
+   "NIL"
+  ]
+ },
+ "ECE6053": {
+  "COURSE TITLE": "Medical Robotics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F1": 2,
+   "NIL": 1
+  },
+  "ABRAHAM SAMPSON S": [
+   "F1",
+   "NIL"
+  ]
+ },
+ "ECE6054": {
+  "COURSE TITLE": "Medical Imaging Techniques",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C1": 2,
+   "L51+L52": 1
+  },
+  "MYTHILI A": [
+   "C1",
+   "L51+L52"
+  ]
+ },
+ "ECE6069": {
+  "COURSE TITLE": "Digital Signal Processing and its Applications",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 2,
+   "L55+L56": 1
+  },
+  "SARANYA K.C.": [
+   "C1+TC1",
+   "L55+L56"
+  ]
+ },
+ "ECE6071": {
+  "COURSE TITLE": "Data Acquisition and Signal Conditioning",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2,
+   "L49+L50": 1
+  },
+  "RAJESH N": [
+   "E1+TE1",
+   "L49+L50"
+  ]
+ },
+ "ECE6072": {
+  "COURSE TITLE": "Automotive Power Electronics and Motor Drives",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 2,
+   "L43+L44": 1
+  },
+  "THIRUMURUGAN C": [
+   "A1+TA1",
+   "L43+L44"
+  ]
+ },
+ "ECE6080": {
+  "COURSE TITLE": "Machine Vision System for Automotive",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 2,
+   "L37+L38": 1
+  },
+  "GANESAN K": [
+   "B1+TB1",
+   "L37+L38"
+  ]
+ },
+ "ECE6089": {
+  "COURSE TITLE": "Automotive Sensors and In\u2010Vehicle Networking",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A2": 2,
+   "L9+L10": 1
+  },
+  "KATHIRVELAN J": [
+   "A2",
+   "L9+L10"
+  ]
+ },
+ "ECE6092": {
+  "COURSE TITLE": "Intelligent IoT System Design and Architecture",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F1": 2,
+   "NIL": 1
+  },
+  "SUJATHA R": [
+   "F1",
+   "NIL"
+  ]
+ },
+ "ECE6093": {
+  "COURSE TITLE": "Advanced Machine Learning and Deep Learning",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1": 2,
+   "L31+L32": 1,
+   "L57+L58": 1
+  },
+  "HEMPRASAD YASHWANT PATIL": [
+   "A1+TA1",
+   "L31+L32",
+   "L57+L58"
+  ]
+ },
+ "BITE202L": {
+  "COURSE TITLE": "Digital Logic and Microprocessors",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 6,
+   "A2+TA2": 5
+  },
+  "USHAPREETHI P": [
+   "B1+TB1",
+   "A2+TA2"
+  ],
+  "PRADEEPA M": [
+   "B1+TB1",
+   "A2+TA2"
+  ],
+  "SUGANYA P": [
+   "B1+TB1",
+   "A2+TA2"
+  ],
+  "SUMATHI D": [
+   "B1+TB1",
+   "A2+TA2"
+  ],
+  "MALASERENE I": [
+   "A2+TA2",
+   "B1+TB1"
+  ]
+ },
+ "BITE202P": {
+  "COURSE TITLE": "Digital Logic and Microprocessors Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L53+L54": 3,
+   "L15+L16": 2,
+   "L39+L40": 2,
+   "L25+L26": 2,
+   "L27+L28": 1,
+   "L41+L42": 1
+  },
+  "USHAPREETHI P": [
+   "L53+L54",
+   "L15+L16"
+  ],
+  "PRADEEPA M": [
+   "L39+L40",
+   "L25+L26"
+  ],
+  "SUGANYA P": [
+   "L53+L54",
+   "L27+L28"
+  ],
+  "SUMATHI D": [
+   "L39+L40",
+   "L25+L26"
+  ],
+  "MALASERENE I": [
+   "L41+L42",
+   "L15+L16"
+  ]
+ },
+ "ITA5004": {
+  "COURSE TITLE": "Object Oriented Programming using JAVA",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A1": 3,
+   "L33+L34": 2,
+   "A2": 2,
+   "L3+L4": 2
+  },
+  "NALLAKARUPPAN M.K.": [
+   "A1",
+   "L33+L34",
+   "A2",
+   "L3+L4"
+  ],
+  "SHYNU P G": [
+   "A1",
+   "L33+L34",
+   "A2",
+   "L3+L4"
+  ]
+ },
+ "ITA5006": {
+  "COURSE TITLE": "Distributed Operating Systems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D1": 3,
+   "NIL": 4,
+   "D2": 2
+  },
+  "UMA MAHESWARI G": [
+   "D1",
+   "NIL",
+   "D2",
+   "NIL"
+  ],
+  "KUMAR P.J": [
+   "D1",
+   "NIL",
+   "D2",
+   "NIL"
+  ]
+ },
+ "ITA5007": {
+  "COURSE TITLE": "Data Mining and Business Intelligence",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 3,
+   "NIL": 4,
+   "B2+TB2": 2
+  },
+  "RAMKUMAR T": [
+   "B1+TB1",
+   "NIL"
+  ],
+  "DEEPA N": [
+   "B1+TB1",
+   "NIL",
+   "B2+TB2",
+   "NIL"
+  ],
+  "LAKSHMI PRIYA G G": [
+   "B2+TB2",
+   "NIL"
+  ]
+ },
+ "ITA6003": {
+  "COURSE TITLE": "Internet and Web Programming",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 2,
+   "L47+L48": 1,
+   "NIL": 2,
+   "E2": 1,
+   "L19+L20": 1
+  },
+  "VIJAYAN R": [
+   "E1",
+   "L47+L48",
+   "NIL",
+   "E2",
+   "L19+L20",
+   "NIL"
+  ]
+ },
+ "ITA6004": {
+  "COURSE TITLE": "Soft Computing",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2,
+   "NIL": 2,
+   "F2+TF2": 1
+  },
+  "NEELU KHARE": [
+   "F1+TF1",
+   "NIL"
+  ],
+  "RAJESH KALURI": [
+   "F2+TF2",
+   "NIL"
+  ]
+ },
+ "ITA6009": {
+  "COURSE TITLE": "Cloud Computing",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2,
+   "NIL": 2,
+   "F2+TF2": 1
+  },
+  "SATHIYAMOORTHY E": [
+   "F1+TF1",
+   "NIL",
+   "F2+TF2",
+   "NIL"
+  ]
+ },
+ "ITA6013": {
+  "COURSE TITLE": "Advanced Software Testing",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2,
+   "L45+L46": 1,
+   "E2+TE2": 1,
+   "L13+L14": 1
+  },
+  "SENTHIL KUMAR. M": [
+   "E1+TE1",
+   "L45+L46",
+   "E2+TE2",
+   "L13+L14"
+  ]
+ },
+ "ITA6017": {
+  "COURSE TITLE": "Python Programming",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C1": 3,
+   "L41+L42": 2,
+   "C2": 2,
+   "L11+L12": 2
+  },
+  "KAVITHA B.R": [
+   "C1",
+   "L41+L42",
+   "C2",
+   "L11+L12"
+  ],
+  "BRIJENDRA SINGH": [
+   "C1",
+   "L41+L42",
+   "C2",
+   "L11+L12"
+  ]
+ },
+ "SWE1003": {
+  "COURSE TITLE": "Digital Logic and Microprocessor",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1": 5,
+   "C2+TC2": 4,
+   "L27+L28": 1,
+   "L41+L42": 1,
+   "L11+L12": 1,
+   "L45+L46": 1,
+   "L15+L16": 1,
+   "L3+L4": 1,
+   "L53+L54": 1,
+   "L33+L34": 1
+  },
+  "NITHYA.S": [
+   "C1+TC1",
+   "C2+TC2",
+   "L27+L28",
+   "L53+L54"
+  ],
+  "PRAVEEN KUMAR REDDY M.": [
+   "C1+TC1",
+   "L41+L42"
+  ],
+  "NEELU KHARE": [
+   "C2+TC2",
+   "L11+L12"
+  ],
+  "SUREKA S": [
+   "C1+TC1",
+   "C2+TC2",
+   "L45+L46",
+   "L15+L16"
+  ],
+  "ASHA JERLIN M": [
+   "C1+TC1",
+   "C2+TC2",
+   "L3+L4",
+   "L33+L34"
+  ]
+ },
+ "SWE1701": {
+  "COURSE TITLE": "Software Engineering",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 4,
+   "E2+TE2": 3,
+   "D1+TD1": 1,
+   "D2+TD2": 1
+  },
+  "KIRUBA THANGAM R": [
+   "E1+TE1",
+   "E2+TE2"
+  ],
+  "GAYATHRI A": [
+   "D1+TD1",
+   "D2+TD2"
+  ],
+  "SANTHOSH KUMAR S V N": [
+   "E1+TE1",
+   "E2+TE2"
+  ],
+  "KALAIVANI S": [
+   "E1+TE1",
+   "E2+TE2"
+  ]
+ },
+ "SWE2001": {
+  "COURSE TITLE": "Data Structures and Algorithms",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D1+TD1": 4,
+   "D2+TD2": 3,
+   "L5+L6": 1,
+   "E1+TE1": 1,
+   "E2+TE2": 1,
+   "L33+L34": 2,
+   "L7+L8": 1,
+   "L9+L10": 1,
+   "L39+L40": 1,
+   "L15+L16": 1,
+   "L51+L52": 1
+  },
+  "VIJAYAN E": [
+   "D1+TD1",
+   "L33+L34"
+  ],
+  "ANGULAKSHMI M": [
+   "D2+TD2",
+   "L5+L6"
+  ],
+  "MYTHILI N": [
+   "E1+TE1",
+   "E2+TE2",
+   "L33+L34",
+   "L7+L8"
+  ],
+  "SEETHA R": [
+   "D1+TD1",
+   "D2+TD2",
+   "L9+L10",
+   "L51+L52"
+  ],
+  "NANCY VICTOR": [
+   "D1+TD1",
+   "L39+L40"
+  ],
+  "TAMIL PRIYA D": [
+   "D2+TD2",
+   "L15+L16"
+  ]
+ },
+ "BMEE201L": {
+  "COURSE TITLE": "Engineering Mechanics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 8,
+   "B2+TB2": 7,
+   "A1+TA1": 2,
+   "A2+TA2": 1
+  },
+  "VELU M": [
+   "B1+TB1"
+  ],
+  "SHARAN CHANDRAN M": [
+   "B2+TB2"
+  ],
+  "EDWIN SUDHAGAR P": [
+   "B1+TB1"
+  ],
+  "ASHOK K": [
+   "B2+TB2"
+  ],
+  "ARUNA KUMAR BEHURA": [
+   "B1+TB1"
+  ],
+  "ABINASH MOHANTA": [
+   "B2+TB2"
+  ],
+  "NISHANT TIWARI": [
+   "B1+TB1"
+  ],
+  "SOMASUNDHARAM S": [
+   "B2+TB2"
+  ],
+  "BABU S": [
+   "B1+TB1"
+  ],
+  "SUYA PREM ANAND P": [
+   "B2+TB2"
+  ],
+  "SENTHIL KUMAR N": [
+   "A1+TA1"
+  ],
+  "MEENA T": [
+   "A2+TA2",
+   "A1+TA1"
+  ],
+  "HAREESH M": [
+   "B1+TB1"
+  ],
+  "SIMON J": [
+   "B2+TB2"
+  ],
+  "VISWANATHAN T S": [
+   "B1+TB1",
+   "B2+TB2"
+  ]
+ },
+ "MEE5009": {
+  "COURSE TITLE": "Autotronics and Vehicle Intelligence",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C2+TC2": 2,
+   "NIL": 1
+  },
+  "RAMAKRISHNAN R": [
+   "C2+TC2",
+   "NIL"
+  ]
+ },
+ "MEE5015": {
+  "COURSE TITLE": "Finite Element Methods",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C2+TC2+V5": 2,
+   "L3+L4": 1
+  },
+  "MANOHARAN R": [
+   "C2+TC2+V5",
+   "L3+L4"
+  ]
+ },
+ "MEE5021": {
+  "COURSE TITLE": "Manufacturing Automation",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D2+TD2": 2,
+   "L11+L12": 1,
+   "L19+L20": 1
+  },
+  "GIRIRAJ M": [
+   "D2+TD2",
+   "L11+L12",
+   "L19+L20"
+  ]
+ },
+ "MEE5022": {
+  "COURSE TITLE": "Applied Materials Engineering",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 2
+  },
+  "NAGESWARA RAO M": [
+   "B1+TB1"
+  ]
+ },
+ "MEE5025": {
+  "COURSE TITLE": "Mechatronics and Automation",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A1": 2,
+   "L23+L24": 1
+  },
+  "SENTHIL KUMAR S": [
+   "A1",
+   "L23+L24"
+  ]
+ },
+ "MEE5026": {
+  "COURSE TITLE": "Vehicle Dynamics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "D2+TD2+V6": 2,
+   "NIL": 2,
+   "A1+TA1+V1": 1
+  },
+  "SAKTHIVEL P": [
+   "D2+TD2+V6",
+   "NIL"
+  ],
+  "MALLIKARJUNA REDDY  D": [
+   "A1+TA1+V1",
+   "NIL"
+  ]
+ },
+ "MEE5027": {
+  "COURSE TITLE": "System Design and Control",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2,
+   "NIL": 1
+  },
+  "RAGHURAMAN D R S": [
+   "E2+TE2",
+   "NIL"
+  ]
+ },
+ "MEE5031": {
+  "COURSE TITLE": "Digital Manufacturing and Factory Automation",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E2+TE2": 2,
+   "L9+L10": 1
+  },
+  "KANISH T.C": [
+   "E2+TE2",
+   "L9+L10"
+  ]
+ },
+ "MEE6003": {
+  "COURSE TITLE": "Micro and Nano Manufacturing",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B1+TB1": 2
+  },
+  "SRINAGALAKSHMI NAMMI": [
+   "B1+TB1"
+  ]
+ },
+ "MEE6008": {
+  "COURSE TITLE": "Supply Chain and Logistics Management",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2
+  },
+  "THIAGARAJAN S": [
+   "F1+TF1"
+  ]
+ },
+ "MEE6012": {
+  "COURSE TITLE": "Design and Analysis of Experiments",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1+V2": 2,
+   "NIL": 1
+  },
+  "JEEVANANTHAM A.K.": [
+   "C1+TC1+V2",
+   "NIL"
+  ]
+ },
+ "MEE6015": {
+  "COURSE TITLE": "Additive Manufacturing Technology",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D1": 2,
+   "NIL": 1
+  },
+  "SOLAMAN BOBBY S": [
+   "D1",
+   "NIL"
+  ]
+ },
+ "MEE6020": {
+  "COURSE TITLE": "Battery and Fuel Cells",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F1": 2,
+   "NIL": 1
+  },
+  "VIJAYAKUMAR T": [
+   "F1",
+   "NIL"
+  ]
+ },
+ "MEE6023": {
+  "COURSE TITLE": "Vehicle Maintenance and Diagnostics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "G2": 2,
+   "NIL": 1
+  },
+  "RAMMOHAN A": [
+   "G2",
+   "NIL"
+  ]
+ },
+ "MEE6024": {
+  "COURSE TITLE": "Vehicle Aerodynamics",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "E1+TE1": 2
+  },
+  "YAGNA S MUKKAMALA": [
+   "E1+TE1"
+  ]
+ },
+ "MEE6027": {
+  "COURSE TITLE": "Noise, Vibration and Harshness",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A1+TA1+V1": 2,
+   "L31+L32": 1,
+   "L57+L58": 1
+  },
+  "PRABU K": [
+   "A1+TA1+V1",
+   "L31+L32",
+   "L57+L58"
+  ]
+ },
+ "MEE6028": {
+  "COURSE TITLE": "Computational Fluid Flow and Heat Transfer",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "C1+TC1+V2": 2,
+   "NIL": 1
+  },
+  "THUNDIL KARUPPA RAJ R": [
+   "C1+TC1+V2",
+   "NIL"
+  ]
+ },
+ "MEE6029": {
+  "COURSE TITLE": "Hybrid Electric Vehicles",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "B2": 2,
+   "NIL": 1
+  },
+  "RAMESH KUMAR C": [
+   "B2",
+   "NIL"
+  ]
+ },
+ "MEE6030": {
+  "COURSE TITLE": "Advanced Finite Element Methods",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "D1": 2,
+   "NIL": 1
+  },
+  "GANAPATHI M": [
+   "D1",
+   "NIL"
+  ]
+ },
+ "MEE6031": {
+  "COURSE TITLE": "Computational Fluid Dynamics",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C1": 2,
+   "L49+L50": 1
+  },
+  "PADMANATHAN P": [
+   "C1",
+   "L49+L50"
+  ]
+ },
+ "MEE6033": {
+  "COURSE TITLE": "Product Design and Life Cycle Management",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 2,
+   "NIL": 1
+  },
+  "NAIJU C D": [
+   "E1",
+   "NIL"
+  ]
+ },
+ "MEE6035": {
+  "COURSE TITLE": "Manufacturing and Mechanics of Composites Materials",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "F1+TF1": 2
+  },
+  "VASUDEVAN R": [
+   "F1+TF1"
+  ]
+ },
+ "MEE6043": {
+  "COURSE TITLE": "Machine Vision Systems",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "A2": 2,
+   "NIL": 1
+  },
+  "SRIDHAR V G": [
+   "A2",
+   "NIL"
+  ]
+ },
+ "MEE6046": {
+  "COURSE TITLE": "Intelligent Systems",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "B2+TB2": 2,
+   "NIL": 1
+  },
+  "DENIS ASHOK S": [
+   "B2+TB2",
+   "NIL"
+  ]
+ },
+ "MEE6058": {
+  "COURSE TITLE": "Industrial Process Automation",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2,
+   "NIL": 1
+  },
+  "CHINMAYA SAHU": [
+   "F2",
+   "NIL"
+  ]
+ },
+ "MEE6061": {
+  "COURSE TITLE": "Industrial Internet of Things and Cloud Computing",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F2": 2,
+   "L15+L16": 1
+  },
+  "BOOPATHI M": [
+   "F2",
+   "L15+L16"
+  ]
+ },
+ "MEE6064": {
+  "COURSE TITLE": "Applied Robotics and Programming",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "C2": 2,
+   "L13+L14": 1
+  },
+  "RAJAY VEDARAJ  I.S": [
+   "C2",
+   "L13+L14"
+  ]
+ },
+ "MEE6069": {
+  "COURSE TITLE": "Digital Systems Design and Architecture",
+  "CREDITS": 3.0,
+  "SLOTS": {
+   "A2+TA2": 2
+  },
+  "SOUMI RAY": [
+   "A2+TA2"
+  ]
+ },
+ "BENG101L": {
+  "COURSE TITLE": "Technical English Communication",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "E1": 25,
+   "E2": 23,
+   "B1": 5,
+   "B2": 3,
+   "D2": 10,
+   "D1": 10,
+   "G2": 13,
+   "G1": 13,
+   "C1": 6,
+   "C2": 5
+  },
+  "AJANTA SIRCAR": [
+   "E1",
+   "D2",
+   "E2"
+  ],
+  "RAJU R.L.N": [
+   "E2",
+   "D1",
+   "G1"
+  ],
+  "MD. SAHUL HAMEED M A": [
+   "E1",
+   "D1",
+   "G2"
+  ],
+  "VIJAYALAKSHMI S": [
+   "E1",
+   "G1",
+   "G2"
+  ],
+  "BHUVANESWARI V": [
+   "E2",
+   "D2",
+   "E1"
+  ],
+  "ANITHA DEVI V": [
+   "E2",
+   "D2",
+   "E1"
+  ],
+  "KARTHIKEYAN J": [
+   "E1",
+   "D1",
+   "E2"
+  ],
+  "LAXMI DHAR DWIVEDI": [
+   "E2",
+   "D2",
+   "G1"
+  ],
+  "SOUMEN MUKHERJEE": [
+   "E1",
+   "D2",
+   "G2"
+  ],
+  "GAYATHRI N": [
+   "B1",
+   "G2",
+   "C1"
+  ],
+  "MEENU B": [
+   "B2",
+   "E1",
+   "E2"
+  ],
+  "PRASANTHA KUMAR N.S": [
+   "B1",
+   "D2",
+   "C1"
+  ],
+  "SREEJITH VARMA R": [
+   "D1",
+   "E2",
+   "G1"
+  ],
+  "NAGESWARI  R": [
+   "D1",
+   "B2"
+  ],
+  "MEENAKSHI S": [
+   "D2",
+   "B1"
+  ],
+  "SANGEETA MUKHERJEE": [
+   "D1",
+   "D2",
+   "E2"
+  ],
+  "ANU BAISEL": [
+   "D2",
+   "E2"
+  ],
+  "RUKMINI S": [
+   "D1",
+   "E1"
+  ],
+  "SARAVANAN V": [
+   "D2",
+   "C1"
+  ],
+  "CHRISTOPHER RAJASEKARAN W": [
+   "D1",
+   "G2"
+  ],
+  "GANDHIMATHI S.N.S": [
+   "D1",
+   "G2"
+  ],
+  "ANBURAJ G": [
+   "E1",
+   "E2"
+  ],
+  "PRAJEESH TOMY": [
+   "E1",
+   "G1"
+  ],
+  "EVANGELINE PRISCILLA B": [
+   "E2",
+   "G2"
+  ],
+  "SARASWATHY S": [
+   "E1",
+   "G2",
+   "C2"
+  ],
+  "SNEHA MISHRA": [
+   "E1",
+   "C2",
+   "G1"
+  ],
+  "JOBIN MATHEW KANJIRAKKAT": [
+   "E2",
+   "G1"
+  ],
+  "SARIKA GUPTA": [
+   "E2"
+  ],
+  "MATHUMATHY S": [
+   "E1",
+   "G2"
+  ],
+  "ABHIK MUKHERJEE": [
+   "E1",
+   "G1"
+  ],
+  "DWIJA BAI A K": [
+   "E2",
+   "E1"
+  ],
+  "SUSHANT KISHORE": [
+   "E1",
+   "D1"
+  ],
+  "VARSHA K": [
+   "E2",
+   "C1",
+   "E1"
+  ],
+  "SANKAR G": [
+   "E2",
+   "E1"
+  ],
+  "MEERA B": [
+   "E2",
+   "E1"
+  ],
+  "SENGUTTUVAN M": [
+   "E1",
+   "C2",
+   "E2"
+  ],
+  "ANIL PREMRAJ J": [
+   "G2",
+   "B1"
+  ],
+  "G CHRISTOPHER": [
+   "G1",
+   "B2"
+  ],
+  "VIJAYAKUMAR M": [
+   "G1",
+   "E1"
+  ],
+  "THENMOZHI M": [
+   "G2",
+   "G1"
+  ],
+  "SENTHIL BABU M K": [
+   "G2",
+   "C2",
+   "E1"
+  ],
+  "VISHNU PRIYA N.S": [
+   "G1",
+   "C2",
+   "C1"
+  ],
+  "PREETHA R": [
+   "C1",
+   "G1",
+   "E2"
+  ],
+  "SUNITHA V": [
+   "E2",
+   "G2",
+   "B1"
+  ],
+  "SUGANTHAN  C": [
+   "E1",
+   "E2"
+  ],
+  "YADAMALA SREENIVASULU": [
+   "E2"
+  ]
+ },
+ "BENG101P": {
+  "COURSE TITLE": "Technical English Communication Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L59+L60": 5,
+   "L41+L42": 7,
+   "L25+L26": 1,
+   "L55+L56": 3,
+   "L7+L8": 5,
+   "L29+L30": 6,
+   "L37+L38": 3,
+   "L13+L14": 4,
+   "L45+L46": 5,
+   "L31+L32": 6,
+   "L23+L24": 4,
+   "L35+L36": 4,
+   "L39+L40": 2,
+   "L3+L4": 2,
+   "L33+L34": 2,
+   "L1+L2": 4,
+   "L9+L10": 2,
+   "L11+L12": 5,
+   "L57+L58": 5,
+   "L21+L22": 4,
+   "L43+L44": 4,
+   "L15+L16": 6,
+   "L47+L48": 4,
+   "L27+L28": 4,
+   "L5+L6": 4,
+   "L51+L52": 4,
+   "L19+L20": 3,
+   "L53+L54": 3,
+   "L49+L50": 2
+  },
+  "MD. SAHUL HAMEED M A": [
+   "L59+L60",
+   "L39+L40",
+   "L15+L16"
+  ],
+  "AJANTA SIRCAR": [
+   "L41+L42",
+   "L23+L24",
+   "L27+L28"
+  ],
+  "RAJU R.L.N": [
+   "L25+L26",
+   "L35+L36",
+   "L31+L32"
+  ],
+  "VIJAYALAKSHMI S": [
+   "L55+L56",
+   "L45+L46",
+   "L15+L16"
+  ],
+  "BHUVANESWARI V": [
+   "L7+L8",
+   "L3+L4",
+   "L45+L46"
+  ],
+  "ANITHA DEVI V": [
+   "L29+L30",
+   "L1+L2",
+   "L47+L48"
+  ],
+  "KARTHIKEYAN J": [
+   "L37+L38",
+   "L31+L32",
+   "L21+L22"
+  ],
+  "LAXMI DHAR DWIVEDI": [
+   "L13+L14",
+   "L9+L10",
+   "L57+L58"
+  ],
+  "SOUMEN MUKHERJEE": [
+   "L45+L46",
+   "L11+L12",
+   "L13+L14"
+  ],
+  "GAYATHRI N": [
+   "L31+L32",
+   "L9+L10",
+   "L35+L36"
+  ],
+  "MEENU B": [
+   "L29+L30",
+   "L57+L58",
+   "L13+L14"
+  ],
+  "PRASANTHA KUMAR N.S": [
+   "L41+L42",
+   "L23+L24",
+   "L53+L54"
+  ],
+  "SREEJITH VARMA R": [
+   "L33+L34",
+   "L27+L28",
+   "L57+L58"
+  ],
+  "NAGESWARI  R": [
+   "L57+L58",
+   "L23+L24"
+  ],
+  "MEENAKSHI S": [
+   "L21+L22",
+   "L55+L56"
+  ],
+  "SANGEETA MUKHERJEE": [
+   "L37+L38",
+   "L13+L14",
+   "L29+L30"
+  ],
+  "ANU BAISEL": [
+   "L7+L8",
+   "L23+L24"
+  ],
+  "RUKMINI S": [
+   "L43+L44",
+   "L41+L42"
+  ],
+  "SARAVANAN V": [
+   "L15+L16",
+   "L59+L60"
+  ],
+  "CHRISTOPHER RAJASEKARAN W": [
+   "L45+L46",
+   "L7+L8"
+  ],
+  "GANDHIMATHI S.N.S": [
+   "L47+L48",
+   "L11+L12"
+  ],
+  "ANBURAJ G": [
+   "L31+L32",
+   "L19+L20"
+  ],
+  "PRAJEESH TOMY": [
+   "L43+L44",
+   "L31+L32"
+  ],
+  "EVANGELINE PRISCILLA B": [
+   "L11+L12",
+   "L19+L20"
+  ],
+  "SARASWATHY S": [
+   "L57+L58",
+   "L21+L22",
+   "L1+L2"
+  ],
+  "JOBIN MATHEW KANJIRAKKAT": [
+   "L5+L6",
+   "L53+L54"
+  ],
+  "SARIKA GUPTA": [
+   "L21+L22"
+  ],
+  "MATHUMATHY S": [
+   "L59+L60",
+   "L15+L16"
+  ],
+  "ABHIK MUKHERJEE": [
+   "L41+L42",
+   "L33+L34"
+  ],
+  "DWIJA BAI A K": [
+   "L29+L30",
+   "L37+L38"
+  ],
+  "SUSHANT KISHORE": [
+   "L45+L46",
+   "L41+L42"
+  ],
+  "VARSHA K": [
+   "L29+L30",
+   "L31+L32",
+   "L47+L48"
+  ],
+  "SANKAR G": [
+   "L27+L28",
+   "L51+L52"
+  ],
+  "MEERA B": [
+   "L15+L16",
+   "L49+L50"
+  ],
+  "SENGUTTUVAN M": [
+   "L51+L52",
+   "L5+L6",
+   "L1+L2"
+  ],
+  "ANIL PREMRAJ J": [
+   "L11+L12",
+   "L35+L36"
+  ],
+  "G CHRISTOPHER": [
+   "L41+L42",
+   "L5+L6"
+  ],
+  "VIJAYAKUMAR M": [
+   "L43+L44",
+   "L55+L56"
+  ],
+  "THENMOZHI M": [
+   "L5+L6",
+   "L41+L42"
+  ],
+  "SENTHIL BABU M K": [
+   "L1+L2",
+   "L7+L8",
+   "L47+L48"
+  ],
+  "VISHNU PRIYA N.S": [
+   "L51+L52",
+   "L3+L4",
+   "L39+L40"
+  ],
+  "PREETHA R": [
+   "L43+L44",
+   "L59+L60",
+   "L19+L20"
+  ],
+  "SNEHA MISHRA": [
+   "L11+L12",
+   "L53+L54",
+   "L35+L36"
+  ],
+  "SUNITHA V": [
+   "L15+L16",
+   "L27+L28",
+   "L49+L50"
+  ],
+  "SUGANTHAN  C": [
+   "L7+L8",
+   "L51+L52"
+  ],
+  "YADAMALA SREENIVASULU": [
+   "L29+L30"
+  ]
+ },
+ "ENG1014": {
+  "COURSE TITLE": "Business Communication and Value Science \u2010 II",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "TA1": 2,
+   "L31+L32": 1,
+   "TE2": 2,
+   "L27+L28": 2,
+   "TE1": 1,
+   "L37+L38": 1
+  },
+  "SARAVANAN V": [
+   "TA1",
+   "L31+L32"
+  ],
+  "ANBURAJ G": [
+   "TE2",
+   "L27+L28"
+  ],
+  "SANKAR G": [
+   "TE1",
+   "L37+L38"
+  ],
+  "NAGESWARI  R": [
+   "TE2",
+   "L27+L28"
+  ]
+ },
+ "ENG1901": {
+  "COURSE TITLE": "Technical English \u2010 I",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L45+L46+L51+L52": 2,
+   "L53+L54+L55+L56": 1,
+   "L15+L16+L23+L24": 1,
+   "L35+L36+L43+L44": 1,
+   "L5+L6+L19+L20": 1,
+   "L9+L10+L29+L30": 1
+  },
+  "KARTHIKEYAN J": [
+   "L45+L46+L51+L52"
+  ],
+  "MD. SAHUL HAMEED M A": [
+   "L53+L54+L55+L56"
+  ],
+  "BHUVANESWARI V": [
+   "L15+L16+L23+L24"
+  ],
+  "SANGEETA MUKHERJEE": [
+   "L35+L36+L43+L44"
+  ],
+  "VIJAYALAKSHMI S": [
+   "L5+L6+L19+L20"
+  ],
+  "VISHNU PRIYA N.S": [
+   "L9+L10+L29+L30"
+  ]
+ },
+ "ENG1902": {
+  "COURSE TITLE": "Technical English \u2010 II",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L31+L32+L43+L44": 2,
+   "L11+L12+L27+L28": 1,
+   "L47+L48+L49+L50": 1,
+   "L1+L2+L15+L16": 1,
+   "L5+L6+L19+L20": 1,
+   "L39+L40+L55+L56": 1
+  },
+  "ANIL PREMRAJ J": [
+   "L31+L32+L43+L44"
+  ],
+  "G CHRISTOPHER": [
+   "L11+L12+L27+L28"
+  ],
+  "PRAJEESH TOMY": [
+   "L47+L48+L49+L50"
+  ],
+  "EVANGELINE PRISCILLA B": [
+   "L1+L2+L15+L16"
+  ],
+  "YADAMALA SREENIVASULU": [
+   "L5+L6+L19+L20"
+  ],
+  "CHRISTOPHER RAJASEKARAN W": [
+   "L39+L40+L55+L56"
+  ]
+ },
+ "ENG1911": {
+  "COURSE TITLE": "General English \u2010 I",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L5+L6": 2,
+   "TE2": 1
+  },
+  "MATHUMATHY S": [
+   "L5+L6",
+   "TE2"
+  ]
+ },
+ "ENG1912": {
+  "COURSE TITLE": "General English \u2010 II",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "TE1": 2,
+   "TD1": 1,
+   "TD2": 1,
+   "L55+L56": 2,
+   "L5+L6": 2,
+   "TA1": 2,
+   "L23+L24": 2,
+   "TE2": 1
+  },
+  "THENMOZHI M": [
+   "TE1",
+   "L55+L56"
+  ],
+  "PRAJEESH TOMY": [
+   "TD1",
+   "L55+L56"
+  ],
+  "EVANGELINE PRISCILLA B": [
+   "TD2",
+   "L5+L6"
+  ],
+  "ANITHA DEVI V": [
+   "TA1",
+   "L23+L24"
+  ],
+  "CHRISTOPHER RAJASEKARAN W": [
+   "TA1",
+   "L23+L24"
+  ],
+  "ABHIK MUKHERJEE": [
+   "TE2",
+   "L5+L6"
+  ]
+ },
+ "ENG2000": {
+  "COURSE TITLE": "Foundation English \u2010 II",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "L49+L50+L55+L56": 2,
+   "L31+L32+L37+L38": 1,
+   "L41+L42+L53+L54": 1
+  },
+  "SUSHANT KISHORE": [
+   "L49+L50+L55+L56"
+  ],
+  "RUKMINI S": [
+   "L31+L32+L37+L38"
+  ],
+  "MEENAKSHI S": [
+   "L41+L42+L53+L54"
+  ]
+ },
+ "ENG5002": {
+  "COURSE TITLE": "Professional and Communication Skills",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L51+L52": 2,
+   "L29+L30": 2,
+   "L55+L56": 1
+  },
+  "SREEJITH VARMA R": [
+   "L51+L52"
+  ],
+  "PRASANTHA KUMAR N.S": [
+   "L29+L30"
+  ],
+  "RUKMINI S": [
+   "L55+L56"
+  ],
+  "GANDHIMATHI S.N.S": [
+   "L29+L30"
+  ]
+ },
+ "FRE1001": {
+  "COURSE TITLE": "Francais quotidien",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "G2": 2,
+   "G1": 1
+  },
+  "SHANTANU SHANDILYA": [
+   "G2",
+   "G1"
+  ]
+ },
+ "LFS4001": {
+  "COURSE TITLE": "Introduction to Life Skills for Biotechnologists",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "G1": 4,
+   "G2": 2
+  },
+  "NAGESWARI  R": [
+   "G1"
+  ],
+  "MEENAKSHI S": [
+   "G2"
+  ],
+  "SUNITHA V": [
+   "G1"
+  ],
+  "LAXMI DHAR DWIVEDI": [
+   "G2"
+  ],
+  "RUKMINI S": [
+   "G1"
+  ]
+ },
+ "TENG102L": {
+  "COURSE TITLE": "Technical English Communication",
+  "CREDITS": 2.0,
+  "SLOTS": {
+   "F1": 3,
+   "F2": 1,
+   "A2": 1
+  },
+  "SNEHA MISHRA": [
+   "F1"
+  ],
+  "JOBIN MATHEW KANJIRAKKAT": [
+   "F2"
+  ],
+  "VIJAYAKUMAR M": [
+   "F1"
+  ],
+  "DWIJA BAI A K": [
+   "A2"
+  ]
+ },
+ "TENG102P": {
+  "COURSE TITLE": "Technical English Communication Lab",
+  "CREDITS": 1.0,
+  "SLOTS": {
+   "L37+L38": 3,
+   "L19+L20": 2
+  },
+  "SNEHA MISHRA": [
+   "L37+L38"
+  ],
+  "JOBIN MATHEW KANJIRAKKAT": [
+   "L19+L20"
+  ],
+  "VIJAYAKUMAR M": [
+   "L37+L38"
+  ],
+  "DWIJA BAI A K": [
+   "L19+L20"
+  ]
+ },
+ "COURSES AVAILABLE": {
+  "BSTS102P": 1.5,
+  "STS1022": 1.0,
+  "STS4002": 1.0,
+  "STS4012": 1.0,
+  "STS5002": 1.0,
+  "STS5102": 1.0,
+  "BCHY101L": 3.0,
+  "BCHY101P": 1.0,
+  "BMAT101L": 3.0,
+  "BMAT101P": 1.0,
+  "BMAT102L": 4.0,
+  "BPHY101L": 3.0,
+  "BPHY101P": 1.0,
+  "CHY1002": 3.0,
+  "CHY5005": 4.0,
+  "CHY5006": 3.0,
+  "CHY5007": 2.0,
+  "CHY5008": 2.0,
+  "CHY6001": 3.0,
+  "CHY6002": 3.0,
+  "CHY6003": 3.0,
+  "CHY6004": 3.0,
+  "CHY6005": 3.0,
+  "CHY6007": 3.0,
+  "CHY6009": 3.0,
+  "CHY6011": 3.0,
+  "CHY6026": 3.0,
+  "CHY6040": 0,
+  "MAT1014": 0,
+  "MAT1019": 0,
+  "MAT1020": 0,
+  "MAT2001": 0,
+  "MAT2002": 0,
+  "MAT2006": 3.0,
+  "MAT2007": 4.0,
+  "MAT5013": 3.0,
+  "MAT5016": 3.0,
+  "MAT5022": 2.0,
+  "MAT5023": 2.0,
+  "MAT5024": 2.0,
+  "MAT6002": 3.0,
+  "MAT6005": 3.0,
+  "MAT6006": 3.0,
+  "MAT6009": 3.0,
+  "MAT6014": 3.0,
+  "MAT6015": 2.0,
+  "MAT6016": 3.0,
+  "MAT6021": 3.0,
+  "PHY1003": 3.0,
+  "PHY1701": 3.0,
+  "PHY5005": 4.0,
+  "PHY5006": 3.0,
+  "PHY5007": 2.0,
+  "PHY6002": 3.0,
+  "PHY6006": 3.0,
+  "TCHY103L": 3.0,
+  "TCHY103P": 1.0,
+  "TMAT104L": 4.0,
+  "TPHY103L": 3.0,
+  "TPHY103P": 1.0,
+  "BBIT100L": 3.0,
+  "BBIT100N": 3.0,
+  "BIT5002": 3.0,
+  "BIT5004": 2.0,
+  "BIT5020": 3.0,
+  "BIT6007": 3.0,
+  "BIT6008": 3.0,
+  "BIT6011": 3.0,
+  "BIT6012": 3.0,
+  "BIT6015": 3.0,
+  "BIT6019": 3.0,
+  "BIT6020": 3.0,
+  "BMG5007": 3.0,
+  "BMG5009": 2.0,
+  "BMG5013": 3.0,
+  "BMG5015": 3.0,
+  "BMG6001": 2.0,
+  "BMG6002": 2.0,
+  "BMG6003": 3.0,
+  "BST5004": 2.0,
+  "BST5005": 3.0,
+  "BST5007": 3.0,
+  "BST5009": 2.0,
+  "BST6004": 2.0,
+  "BST6013": 2.0,
+  "BST6014": 3.0,
+  "MSM5001": 2.0,
+  "MSM5005": 3.0,
+  "MSM5006": 2.0,
+  "MSM5007": 3.0,
+  "MSM5008": 3.0,
+  "MSM6001": 2.0,
+  "MSM6002": 3.0,
+  "MSM6003": 2.0,
+  "RES5001": 2.0,
+  "TBIT101L": 3.0,
+  "TBIT101P": 1.0,
+  "TBIT103L": 3.0,
+  "TBIT104L": 3.0,
+  "TBIT105P": 2.0,
+  "TBIT106L": 3.0,
+  "TBIT106P": 2.0,
+  "TBIT107L": 3.0,
+  "TBIT107P": 1.0,
+  "CLE5012": 2.0,
+  "CLE5016": 3.0,
+  "CLE5020": 3.0,
+  "CLE5021": 3.0,
+  "CLE5023": 1.0,
+  "CLE6002": 3.0,
+  "CLE6004": 3.0,
+  "CLE6014": 3.0,
+  "CLE6015": 3.0,
+  "CLE6016": 3.0,
+  "CLE6017": 2.0,
+  "CLE6024": 3.0,
+  "CLE6028": 3.0,
+  "CLE6029": 2.0,
+  "CLE6030": 3.0,
+  "CLE6032": 3.0,
+  "BCSE102L": 2.0,
+  "BCSE102P": 2.0,
+  "BCSE103E": 1.0,
+  "CBS1002": 3.0,
+  "CBS1004": 2.0,
+  "CBS1011": 2.0,
+  "CIS5001": 2.0,
+  "CIS6001": 2.0,
+  "CIS6004": 2.0,
+  "CIS6007": 2.0,
+  "CIS6008": 2.0,
+  "CSE1002": 3.0,
+  "CSE5002": 2.0,
+  "CSE5004": 2.0,
+  "CSE5007": 2.0,
+  "CSE5021": 2.0,
+  "CSE6003": 2.0,
+  "CSE6005": 2.0,
+  "CSE6006": 2.0,
+  "CSE6012": 3.0,
+  "CSE6020": 2.0,
+  "CSE6021": 3.0,
+  "CSE6022": 3.0,
+  "CSE6024": 2.0,
+  "CSE6034": 2.0,
+  "CSE6037": 2.0,
+  "CSE6060": 3.0,
+  "CSE6065": 3.0,
+  "CSI2001": 3.0,
+  "CSI2002": 3.0,
+  "TCSE101L": 2.0,
+  "TCSE101P": 1.0,
+  "TCSE104L": 2.0,
+  "TCSE104P": 2.0,
+  "BEEE101L": 2.0,
+  "BEEE101P": 1.0,
+  "BEEE202L": 3.0,
+  "EEE5006": 2.0,
+  "EEE5007": 3.0,
+  "EEE5016": 2.0,
+  "EEE5017": 2.0,
+  "EEE5018": 3.0,
+  "EEE5020": 2.0,
+  "EEE5031": 2.0,
+  "EEE5704": 2.0,
+  "EEE6001": 2.0,
+  "EEE6005": 2.0,
+  "EEE6008": 2.0,
+  "EEE6009": 2.0,
+  "EEE6010": 2.0,
+  "EEE6011": 3.0,
+  "EEE6012": 2.0,
+  "EEE6013": 3.0,
+  "BECE101L": 2.0,
+  "BECE101P": 1.0,
+  "BECE201L": 3.0,
+  "ECE5005": 2.0,
+  "ECE5006": 3.0,
+  "ECE5013": 2.0,
+  "ECE5014": 3.0,
+  "ECE5016": 3.0,
+  "ECE5023": 3.0,
+  "ECE5029": 3.0,
+  "ECE5037": 3.0,
+  "ECE5038": 3.0,
+  "ECE5039": 3.0,
+  "ECE5048": 3.0,
+  "ECE5049": 2.0,
+  "ECE5052": 2.0,
+  "ECE5053": 2.0,
+  "ECE5054": 3.0,
+  "ECE5065": 2.0,
+  "ECE5074": 3.0,
+  "ECE6001": 2.0,
+  "ECE6003": 2.0,
+  "ECE6012": 3.0,
+  "ECE6014": 3.0,
+  "ECE6016": 2.0,
+  "ECE6017": 2.0,
+  "ECE6024": 2.0,
+  "ECE6025": 2.0,
+  "ECE6030": 2.0,
+  "ECE6031": 3.0,
+  "ECE6032": 2.0,
+  "ECE6033": 3.0,
+  "ECE6034": 3.0,
+  "ECE6040": 3.0,
+  "ECE6042": 3.0,
+  "ECE6049": 2.0,
+  "ECE6053": 2.0,
+  "ECE6054": 2.0,
+  "ECE6069": 3.0,
+  "ECE6071": 3.0,
+  "ECE6072": 3.0,
+  "ECE6080": 3.0,
+  "ECE6089": 2.0,
+  "ECE6092": 2.0,
+  "ECE6093": 3.0,
+  "BITE202L": 3.0,
+  "BITE202P": 1.0,
+  "ITA5004": 2.0,
+  "ITA5006": 2.0,
+  "ITA5007": 3.0,
+  "ITA6003": 2.0,
+  "ITA6004": 3.0,
+  "ITA6009": 3.0,
+  "ITA6013": 3.0,
+  "ITA6017": 2.0,
+  "SWE1003": 3.0,
+  "SWE1701": 3.0,
+  "SWE2001": 3.0,
+  "BMEE201L": 3.0,
+  "MEE5009": 3.0,
+  "MEE5015": 3.0,
+  "MEE5021": 3.0,
+  "MEE5022": 3.0,
+  "MEE5025": 2.0,
+  "MEE5026": 3.0,
+  "MEE5027": 3.0,
+  "MEE5031": 3.0,
+  "MEE6003": 3.0,
+  "MEE6008": 3.0,
+  "MEE6012": 3.0,
+  "MEE6015": 2.0,
+  "MEE6020": 2.0,
+  "MEE6023": 2.0,
+  "MEE6024": 3.0,
+  "MEE6027": 3.0,
+  "MEE6028": 3.0,
+  "MEE6029": 2.0,
+  "MEE6030": 2.0,
+  "MEE6031": 2.0,
+  "MEE6033": 2.0,
+  "MEE6035": 3.0,
+  "MEE6043": 2.0,
+  "MEE6046": 3.0,
+  "MEE6058": 2.0,
+  "MEE6061": 2.0,
+  "MEE6064": 2.0,
+  "MEE6069": 3.0,
+  "BENG101L": 2.0,
+  "BENG101P": 1.0,
+  "ENG1014": 1.0,
+  "ENG1901": 2.0,
+  "ENG1902": 2.0,
+  "ENG1911": 1.0,
+  "ENG1912": 1.0,
+  "ENG2000": 2.0,
+  "ENG5002": 1.0,
+  "FRE1001": 2.0,
+  "LFS4001": 2.0,
+  "TENG102L": 2.0,
+  "TENG102P": 1.0
+ }
+}
