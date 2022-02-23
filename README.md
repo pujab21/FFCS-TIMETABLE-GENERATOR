@@ -1,7 +1,7 @@
 # FFCS-TIMETABLE-GENERATOR
 This will generate a timetable from course allocation report, based on user's priority.
 
-Problem statement: Parse the document and bring it into JSON form. Then take inputs from the user and create an algorithm to generate a timetable.
+Problem statement: Parse the document and bring it into JSON form. Then create an algorithm to generate a timetable by taking inputs from the user.
 
 The user must first run json_generator.py with a word document courseallocationreport.docx in the same file, and data.json will be generated in the same file.
 
