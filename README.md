@@ -11,6 +11,6 @@ Currently default setting id theory slots in the morning, and lab slots in the e
 
 NOTE:_algorithm_alone_.py is just to show the algorithm, it isn't required to run the timetable generator. 
 
-Algorithm: I have implemented a backtracking algorithm which starts filling in courses in order of user's priority.
+Algorithm: I have implemented a backtracking algorithm which starts filling in courses in the timetable in order of user's priority.
 
 
